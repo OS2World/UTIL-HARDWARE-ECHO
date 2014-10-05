@@ -1,0 +1,2318 @@
+
+#         Master List of Vendors
+# Created and Maintained by Britt Turnbull
+# Last updated on : Sat Feb 01 12:32:52 2003
+
+
+    ABP	AdvanSys
+    ACC	Accton
+    ACU	Acculogic
+    ADI	ADI
+    ADP	Adaptec
+    ADV	AMD
+    AEI	Actiontec
+    AHA	Adaptec
+    ALI	ALI
+    AMI	AMI
+    ANS	Ansel Communications
+    AOC	AOC
+    APA	Adaptec
+    APC	APC
+    API	AcerView
+    ARC	Alta
+    ASC	AdvanSys
+    AST	AST
+    ATI	ATI
+    ATK	Allied Telesyn
+    AZT	Aztech
+    BRI	Boca
+    BUS	BusLogic
+    CON	CONTEC
+    CPL	Compal
+    CPQ	Compaq
+    CPX	Compex
+    CRD	Cardinal
+    CRS	Cisco
+    CRX	Cyrix MediaGX
+    CSC	Crystal PnP Audio System CODEC
+    CSI	Cabletron Systems CSI F70xx EISA FDDI Adapter Card
+    CTL	Creative Labs SB16
+    CTX	CTX
+    DBK	Databook ISA PCMCIA Controller
+    DEC	Digital Ethernet
+    DEL	Deltec
+    DLK	D-Link
+    DPT	DPT
+    DWE	Daewoo
+    DXP	DataExpert
+    ECS	ECS
+    EIZ	EIZO
+    ELS	ELSA
+    ESS	ESS
+    EXI	Exide
+    FDC	Future Domain
+    FPS	Fiskars
+    GRV	Gravis
+    GSM	LG
+    HAY	Hayes
+    HEI	HYUNDAI
+    HSL	Hansol
+    HSM	Lucient
+    HTC	Hitachi
+    HWP	HP
+    IBM	IBM
+    ICL	Fujitsu ICL
+    ICU	Intel
+    IIN	Intel
+    INI	Initio
+    INT	Intel
+    ISA	ISA
+    ITC	Intel
+    IVM	Iiyama
+    KML	Kensington
+    KTC	Kingston
+    KYE	Genius
+    LCS	LCS
+    LEG	Adaptec
+    LGI	Logitech
+    LNE	Linksys
+    MAG	MAG
+    MDG	Madge
+    MDY	Microdyne
+    MEI	Panasonic
+    MEL	Mitsubishi
+    MIR	miro
+    MON	Daewoo
+    MOT	Motorola
+    MTC	MITAC
+    MTX	Matrox
+    NAN	NANAO
+    NEC	NEC
+    NIC	Tulip
+    NMX	NeoMagic
+    NOK	NOKIA
+    NSC	National Semiconductor
+    NVL	Novel
+    OEM	???????
+    OLC	HP
+    OPT	OPTi
+    OQI	OptiQuest
+    PCT	PCtel
+    PGS	Princeton
+    PHL	Philips
+    PNP	Generic
+    PRO	Proteon
+    RII	Racal
+    ROK	Rockwell
+    RTI	RTI
+    RTL	Realtek
+    SAM	Samsung
+    SCM	SCM
+    SDI	Samtron
+    SKD	SysKonnect SK-NET
+    SMC	SMC
+    SML	Smile
+    SNY	Sony
+    SRC	ShamRock
+    SSC	Sierra
+    SUP	Supra
+    SVE	SVEC
+    SZV	OvisLink
+    TAT	Tatung
+    TCI	Tulip
+    TCJ	Teac
+    TCM	3Com
+    TCO	Thomas-Conrad
+    TEX	Texas Instruments
+    TOS	Toshiba
+    TRL	TRL/RIC
+    USC	UltraStor
+    USR	USR
+    VDM	Vadem
+    VSC	ViewSonic
+    WDC	Western Digital
+    WTC	WEN
+    WYS	WYSE
+    YMH	Yamaha
+    ZDS	Zenith
+0000   	Gammagraphx Inc
+001a   	Ascend Comm Inc
+0033   	Paradyne Corp
+003d   	Real 3D [Lockheed Martin-Marietta Corp]
+0059   	Tiger Jet Network Inc. (Wrong ID)
+0070   	Hauppauge Computer Works Inc
+0071   	Nebula Electronics Ltd
+0100   	Ncipher Corp Ltd
+0123   	General Dynamics
+0246   	Addtron(??)
+0315   	SK - Electronics Co Ltd
+0675   	Dynalink
+0700   	Stream Machine
+0815   	LinTech GmbH
+0871   	Berkom
+0925   	VIA Technologies Inc. (Wrong ID)
+09c1   	Arris
+0a01   	Connectix
+0a89   	BREA Tech Inc
+0b49   	ASCII Corporation
+0e11   	Compaq Computer Corp [Hewlett-Packard Co]
+0e55   	HaSoTec GmbH
+1000   	Symbios Logic [NCR] [LSI Logic]
+1001   	Kolter Electronic
+1002   	ATI Tech Inc
+1003   	ULSI Systems
+1004   	VLSI Tech Inc
+1005   	Advance Logic Inc [ALI]
+1006   	Reply Group
+1007   	NetFrame Systems Inc
+1008   	Epson
+100a   	Phoenix Tech Ltd
+100b   	National Semi Corp [NS]
+100c   	Tseng Labs Inc
+100d   	AST Research Inc
+100e   	Weitek
+1010   	Video Logic Ltd
+1011   	Digital Equipment Corp [DEC]
+1012   	Micronics Computers Inc
+1013   	Cirrus Logic
+1014   	IBM
+1015   	LSI Logic Corp of Canada
+1016   	Fujitsu ICL Personal Systems
+1017   	Spea Software AG
+1018   	Unisys Corp
+1019   	Elitegroup Computer Systems
+101a   	AT&T GIS [NCR]
+101b   	Vitesse Semiconductor
+101c   	Western Digital
+101e   	American Megatrends Inc
+101f   	PictureTel Corp
+1020   	Hitachi Computer Products
+1021   	OKI Electric Industry Co Ltd
+1022   	Advanced Micro Devices [AMD]
+1023   	Trident Microsystems
+1024   	Zenith Data Systems
+1025   	Acer Inc [ALI]
+1028   	Dell Computer Corp
+1029   	Siemens Nixdorf IS
+102a   	LSI Logic
+102b   	Matrox Graphics Inc
+102c   	Chips and Technologies
+102d   	Wyse Tech Inc
+102e   	Olivetti Advanced Technology
+102f   	Toshiba America
+1030   	TMC Research
+1031   	Miro Computer Products AG
+1032   	Compaq
+1033   	NEC Corporation
+1034   	Burndy Corp
+1035   	Comp. & Comm. Research Lab
+1036   	Future Domain Corp
+1037   	Hitachi Micro Systems Inc
+1038   	AMP Inc
+1039   	Silicon Integrated Systems [SiS]
+103a   	Seiko Epson Corp
+103b   	Tatung Corp Of America
+103c   	Hewlett-Packard Co
+103e   	Solliday Engineering
+103f   	Logic Modeling [Synopsys]
+1040   	AccelGraphics Inc [Kubota Pacific]
+1041   	Computrend
+1042   	Micron
+1043   	Asustek Computer Inc
+1044   	Adaptec [Distributed Processing Tech [DPT]]
+1045   	OPTi Inc
+1046   	IPC Corp Ltd
+1047   	Genoa Systems Corp
+1048   	ELSA GmbH
+1049   	Fountain Tech Inc
+104a   	ST Microelectronics [SGS Thomson]
+104b   	BusLogic
+104c   	Texas Instruments [TI]
+104d   	Sony Corp
+104e   	Oak Technology Inc
+104f   	Co-Time Computer Ltd
+1050   	Winbond Electronics Corp
+1051   	Anigma Corp
+1052   	Young Micro Systems
+1053   	Young Micro Systems
+1054   	Hitachi Ltd
+1055   	SMSC [EFAR Microsystems]
+1056   	ICL
+1057   	Motorola
+1058   	Electronics Telecom Research Inc [ETRI]
+1059   	Kontron Canada [Teknor Microsystems]
+105a   	Promise Tech Inc
+105b   	Foxconn Int'l Inc
+105c   	Wipro Infotech Limited
+105d   	Number Nine Visual Tech
+105e   	Vtech Computers Ltd
+105f   	Infotronic America Inc
+1060   	United Microelectronics [UMC]
+1061   	I.T.T. [X Tech]
+1062   	Maspar Computer Corp
+1063   	Ocean Office Automation
+1064   	Alcatel CIT
+1065   	Texas Microsystems
+1066   	Picopower Tech [National]
+1067   	Mitsubishi Electronics
+1068   	Diversified Technology
+1069   	Mylex Corp
+106a   	Aten Research Inc
+106b   	Apple Computer Inc
+106c   	Hyundai Electronics America
+106d   	Sequent Computer Systems
+106e   	DFI Inc
+106f   	City Gate Development Ltd
+1070   	Daewoo Telecom Ltd
+1071   	Mitac
+1072   	GIT Co Ltd
+1073   	Yamaha Corp
+1074   	NexGen Microsystems
+1075   	Advanced Integration Research
+1076   	Chaintech Computer Co. Ltd
+1077   	QLogic Corp
+1078   	Cyrix Corp
+1079   	I-Bus
+107a   	NetWorth
+107b   	Gateway 2000
+107c   	LG Electronics [Lucky Goldstar Co Ltd]
+107d   	LeadTek Research Inc
+107e   	Interphase Corp
+107f   	Data Tech Corp [DTC]
+1080   	Contaq Microsystems
+1081   	Supermac Tech Inc
+1082   	EFA Corp Of America
+1083   	Forex Computer Corp
+1084   	Parador
+1085   	Tulip Computers Int'l BV
+1086   	J. Bond Computer Systems
+1087   	Cache Computer
+1088   	Microcomputer Systems (M) Son
+1089   	Data General Corp
+108a   	SBS Tech Inc [Bit3 Computer]
+108c   	Oakleigh Systems Inc [Elonex PLC]
+108d   	Olicom
+108e   	Sun Microsystems Computer Corp
+108f   	Systemsoft Corp
+1090   	Encore Computer Corp
+1091   	Intergraph Corp
+1092   	Diamond Multimedia Systems
+1093   	National Instruments
+1094   	First Int'l Computers [FIC]
+1095   	CMD Tech Inc
+1096   	Alacron
+1097   	Appian Tech [ETMA]
+1098   	Quantum Designs HK Ltd
+1099   	Samsung Electronics Co Ltd
+109a   	Packard Bell
+109b   	Gemlight Computer Ltd
+109c   	Megachips Corp
+109d   	Zida Tech Ltd
+109e   	Brooktree Corp
+109f   	Trigem Computer Inc.
+10a0   	Meidensha Corp
+10a1   	Juko Electronics Ind. Co Ltd
+10a2   	Quantum Corp
+10a3   	Everex Systems Inc
+10a4   	Globe Manufacturing Sales
+10a5   	Racal Interlan
+10a6   	Informtech Industrial Ltd
+10a7   	Benchmarq Microelectronics
+10a8   	Sierra Semiconductor
+10a9   	Silicon Graphics Inc [SGI]
+10aa   	ACC Microelectronics
+10ab   	Digicom
+10ac   	Honeywell IAC
+10ad   	Symphony Labs
+10ae   	Cornerstone Technology
+10af   	Micro Computer Systems Inc
+10b0   	CardExpert Technology
+10b1   	Cabletron Systems Inc
+10b2   	Raytheon Company
+10b3   	Databook Inc
+10b4   	STB Systems Inc
+10b5   	PLX Tech Inc
+10b6   	Madge Networks
+10b7   	3Com Corp
+10b8   	Standard Microsystems Corp [SMC]
+10b9   	ALi Corporation
+10ba   	Mitsubishi Electric Corp
+10bb   	Dapha Electronics Corp
+10bc   	Advanced Logic Research Inc
+10bd   	Surecom Technology
+10be   	Tseng Labs Int'l Co
+10bf   	Most Inc
+10c0   	Boca Research Inc
+10c1   	ICM Co Ltd
+10c2   	Auspex Systems Inc
+10c3   	Samsung Semi Inc
+10c4   	Award Software Int'l Inc
+10c5   	Xerox Corp
+10c6   	Rambus Inc
+10c7   	Media Vision
+10c8   	Neomagic Corp
+10c9   	Dataexpert Corp
+10ca   	Fujitsu Microelectronic
+10cb   	Omron Corp
+10cc   	Mentor Arc Inc
+10cd   	Advanced System Products [AdvanSys]
+10ce   	Radius Inc
+10cf   	Fujitsu Ltd
+10d0   	Fujitsu Limited
+10d1   	FuturePlus Systems Corp
+10d2   	Molex Incorporated
+10d3   	Jabil Circuit Inc
+10d4   	Hualon Microelectronics
+10d5   	Autologic Inc
+10d6   	Cetia
+10d7   	BCM Advanced Research
+10d8   	Advanced Peripherals Labs
+10d9   	Macronix Int'l Co Ltd [MXIC]
+10da   	Thomas-Conrad Corp [Compaq IPG-Austin]
+10db   	Rohm LSI Systems Inc
+10dc   	CERN/ECP/EDU
+10dd   	Evans & Sutherland
+10de   	Nvidia Corp
+10df   	Emulex Corp
+10e0   	Integrated Micro Solutions Inc
+10e1   	Tekram Technology Co. Ltd.
+10e2   	Aptix Corp
+10e3   	Tundra Semi Corp
+10e4   	Tandem Computers
+10e5   	Micro Industries Corp
+10e6   	Gainbery Computer Products Inc
+10e7   	Vadem
+10e8   	Applied Micro Circuits Corp
+10e9   	Alps Electric Co Ltd
+10ea   	Tvia Inc [InterGraphics Systems [IGS]]
+10eb   	Artist Graphics
+10ec   	Realtek Semi Co Ltd
+10ed   	ASCII Corp
+10ee   	Xilinx Corp
+10ef   	Racore Computer Products Inc
+10f0   	Peritek Corp
+10f1   	Tyan Computer
+10f2   	Achme Computer Inc
+10f3   	Alaris Inc
+10f4   	S-MOS Systems Inc
+10f5   	NKK Corp
+10f6   	Creative Electronic Systems SA
+10f7   	Matsushita Electric Industrial Co Ltd
+10f8   	Altos India Ltd
+10f9   	PC Direct
+10fa   	TrueVision
+10fb   	Thesys Microelectronics
+10fc   	I-O Data Device Inc
+10fd   	Soyo Computer Inc
+10fe   	Fast Electronic GmbH
+10ff   	N-Cube
+1100   	Jazz Multimedia
+1101   	Initio Corporation
+1102   	Creative Labs
+1103   	Triones Technologies Inc.
+1104   	RasterOps Corp
+1105   	Sigma Designs Inc
+1106   	VIA Tech Inc
+1107   	Stratus Computers
+1108   	Proteon Inc
+1109   	Cogent Data Tech Inc
+110a   	Siemens Nixdorf AG
+110b   	CHROMATIC Research Inc [Xenon Microsystems]
+110c   	Mini-Max Tech Inc
+110d   	ZNyX Corp
+110e   	CPU Technology
+110f   	Ross Technology
+1110   	Powerhouse Systems
+1111   	Caldera Systems Inc [Santa Cruz Operation]
+1112   	Rockwell
+1113   	Accton
+1114   	Atmel Corp
+1115   	3D Labs
+1116   	Media 100 Inc [Data Translation]
+1117   	Datacube Inc
+1118   	Berg Electronics
+1119   	ICP Vortex Computersysteme GmbH
+111a   	Efficient Networks Inc
+111b   	Teledyne Electronic Systems
+111c   	Tricord Systems Inc
+111d   	Integrated Device Tech Inc
+111e   	Eldec Corp
+111f   	Precision Digital Images
+1120   	EMC Corp
+1121   	Zilog
+1122   	Multi-Tech Systems Inc
+1123   	Excellent Design Inc
+1124   	Leutron Vision AG
+1125   	Eurocore/Vigra
+1126   	Vigra
+1127   	FORE Systems Inc
+1129   	Firmworks
+112a   	Hermes Electronics Co Ltd
+112b   	Linotype - Hell AG
+112c   	ZENITH DATA Systems
+112d   	Ravicad
+112e   	Infomedia Microelectronics Inc
+112f   	Imaging Tech Inc
+1130   	Computervision
+1131   	Philips Semiconductors
+1132   	Mitel Corp
+1133   	Eicon Tech Corp
+1134   	Mercury Computer Systems Inc
+1135   	Fuji Xerox Co Ltd
+1136   	Momentum Data Systems
+1137   	Cisco Systems Inc
+1138   	Ziatech Corp
+1139   	Dynamic Pictures Inc
+113a   	FWB Inc
+113b   	Network Computing Devices
+113c   	Cyclone Microsystems Inc
+113d   	Leading Edge Products Inc
+113e   	Sanyo Electric Co
+113f   	Equinox Systems Inc
+1140   	Intervoice Inc
+1141   	Crest Microsystem Inc
+1142   	Alliance Semi Corp
+1143   	NetPower Inc
+1144   	Vickers Inc/Cincinnati Milacron
+1145   	Workbit Corp
+1146   	Force Computers
+1147   	Interface Corp
+1148   	Syskonnect [Schneider & Koch]
+1149   	Win System Corp
+114a   	VMIC
+114b   	Canopus Co Ltd
+114c   	Annabooks
+114d   	IC Corp
+114e   	Nikon Systems Inc
+114f   	Digi International
+1150   	Thinking Machines Corp
+1151   	JAE Electronics Inc
+1152   	Megatek
+1153   	Land Win Electronic Corp
+1154   	Melco Inc
+1155   	Pine Technology Ltd
+1156   	Periscope Engineering
+1157   	Avsys Corp
+1158   	Voarx R&D Inc
+1159   	MuTech Corp
+115a   	Harlequin Ltd
+115b   	Parallax Graphics
+115c   	Photron Ltd
+115d   	Xircom
+115e   	Peer Protocols Inc
+115f   	Maxtor Corp
+1160   	Megasoft Inc
+1161   	PFU Ltd
+1162   	OA Laboratory Co Ltd
+1163   	Rendition Inc
+1164   	Advanced Peripherals Technologies
+1165   	Imagraph Corp
+1166   	Reliance Computer Corp [ServerWorks]
+1167   	Mutoh Industries Inc
+1168   	Thine Electronics Inc
+1169   	Centre for Development of Advanced Computing
+116a   	Polaris Communications
+116b   	Connectware Inc
+116c   	Intelligent Resources Integrated Systems
+116d   	Martin-Marietta
+116e   	Electronics for Imaging
+116f   	Workstation Technology
+1170   	Inventec Corp
+1171   	Loughborough Sound Images
+1172   	Altera Corp
+1173   	Adobe Systems Inc
+1174   	Bridgeport Machines
+1175   	Mitron Computer Inc
+1176   	SBE Inc
+1177   	Silicon Engineering
+1178   	Alfa Inc
+1179   	Toshiba America Information Systems
+117a   	A-Trend Technology
+117b   	L G Electronics Inc
+117c   	Atto Technology
+117d   	Becton & Dickinson
+117e   	T/R Systems
+117f   	Integrated Circuit Systems
+1180   	Ricoh Co Ltd
+1181   	Telmatics International
+1183   	Fujikura Ltd
+1184   	Forks Inc
+1185   	Dataworld International Ltd
+1186   	D-Link System Inc
+1187   	Advanced Tech Labs Inc
+1188   	Shima Seiki Manufacturing Ltd
+1189   	Matsushita Electronics Co Ltd
+118a   	Hilevel Technology
+118b   	Hypertec Pty Ltd
+118c   	Corollary Inc
+118d   	BitFlow Inc
+118e   	Hermstedt GmbH
+118f   	Green Logic
+1190   	Tripace
+1191   	Artop Electronic Corp
+1192   	Densan Co Ltd
+1193   	Zeitnet Inc
+1194   	Toucan Technology
+1195   	Ratoc System Inc
+1196   	Hytec Electronics Ltd
+1197   	Gage Applied Sciences Inc
+1198   	Lambda Systems Inc
+1199   	Attachmate Corp
+119a   	Mindshare Inc
+119b   	Omega Micro Inc
+119c   	Information Tech Institute
+119d   	Bug Inc Sapporo Japan
+119e   	Fujitsu Microelectronics Ltd
+119f   	Bull HN Information Systems
+11a0   	Convex Computer Corp
+11a1   	Hamamatsu Photonics K.K.
+11a2   	Sierra Research and Technology
+11a3   	Deuretzbacher GmbH & Co ENG. KG
+11a4   	Barco Graphics NV
+11a5   	Microunity Systems Eng. Inc
+11a6   	Pure Data Ltd
+11a7   	Power Computing Corp
+11a8   	Systech Corp
+11a9   	InnoSys Inc
+11aa   	Actel
+11ab   	Marvell Semiconductor [Galileo Tech Ltd]
+11ac   	Canon Information Systems
+11ad   	LiteOn
+11ae   	Aztech System Ltd
+11af   	Pro-Log Corp [AVID Tech Inc]
+11b0   	V3 Semi Inc
+11b1   	Apricot Computers
+11b2   	Eastman Kodak
+11b3   	Barr Systems Inc
+11b4   	Leitch Technology International
+11b5   	Radstone Technology Plc
+11b6   	United Video Corp
+11b7   	Motorola
+11b8   	Xpoint Tech Inc
+11b9   	Pathlight Tech Inc
+11ba   	Videotron Corp
+11bb   	Pyramid Tech [DAPHA Electronics Corp]
+11bc   	Network Peripherals Inc
+11bd   	Pinnacle Systems Inc
+11be   	International Microcircuits Inc
+11bf   	Astrodesign Inc
+11c0   	Hewlett Packard
+11c1   	Lucent/Agere Systems [AT&T MicroElectronics]
+11c2   	Sand Microelectronics
+11c3   	NEC Corp
+11c4   	Document Tech Inc
+11c5   	Shiva Corp
+11c6   	Dainippon Screen MFG Co Ltd
+11c7   	D.C.M. Data Systems
+11c8   	Dolphin Interconnect Solutions AS
+11c9   	Magma
+11ca   	LSI Systems Inc
+11cb   	Specialix Research Ltd
+11cc   	Michels & Kleberhoff Computer GmbH
+11cd   	HAL Computer Systems Inc
+11ce   	Netaccess
+11cf   	Pioneer Electronic Corp
+11d0   	Lockheed Martin Federal Systems-Manassas
+11d1   	AuraVision Corp
+11d2   	Intercom Inc
+11d3   	Trancell Systems Inc
+11d4   	Analog Devices
+11d5   	IKON Corp
+11d6   	Tekelec Telecom
+11d7   	Trenton Terminals Inc
+11d8   	Image Technologies Development
+11d9   	TEC Corp
+11da   	Novell
+11db   	SEGA Enterprises Ltd
+11dc   	Questra Corp
+11dd   	Crosfield Electronics Ltd
+11de   	Zoran Corp
+11df   	New Wave PDG
+11e0   	Cray Communications A/S
+11e1   	GEC Plessey Semi Inc
+11e2   	Samsung Information Systems America
+11e3   	Quicklogic Corp
+11e4   	Second Wave Inc
+11e5   	IIX consulting
+11e6   	Mitsui-Zosen System Research
+11e7   	Toshiba America Electric Co
+11e8   	Digital Processing Systems Inc
+11e9   	Highwater Designs Ltd
+11ea   	Elsag Bailey
+11eb   	Formation Inc
+11ec   	Coreco Inc
+11ed   	Mediamatics
+11ee   	Dome Imaging Systems Inc
+11ef   	Nicolet Technologies B.V.
+11f0   	Compu-Shack GmbH
+11f1   	Symbios Logic Inc
+11f2   	Picture Tel Japan K.K.
+11f3   	Keithley Metrabyte
+11f4   	Kinetic Systems Corp
+11f5   	Computing Devices Intl
+11f6   	Compex
+11f7   	Scientific Atlanta
+11f8   	PMC-Sierra Inc
+11f9   	I-Cube Inc
+11fa   	Kasan Electronics Co Ltd
+11fb   	Datel Inc
+11fc   	Silicon Magic
+11fd   	High Street Consultants
+11fe   	Comtrol Corp
+11ff   	Scion Corp
+1200   	CSS Corp
+1201   	Vista Controls Corp
+1202   	Network General Corp
+1203   	Bayer Corp Agfa Division
+1204   	Lattice Semi Corp
+1205   	Array Corp
+1206   	Amdahl Corp
+1208   	Parsytec GmbH
+1209   	SCI Systems Inc
+120a   	Synaptel
+120b   	Adaptive Solutions
+120c   	Technical Corp.
+120d   	Compression Labs Inc
+120e   	Cyclades Corp
+120f   	Essential Communications
+1210   	Hyperparallel Technologies
+1211   	Braintech Inc
+1212   	Kingston Tech Corp
+1213   	Applied Intelligent Systems Inc
+1214   	Performance Tech Inc
+1215   	Interware Co Ltd
+1216   	Purup Prepress A/S
+1217   	O2 Micro Inc
+1218   	Hybricon Corp
+1219   	First Virtual Corp
+121a   	3Dfx Interactive Inc
+121b   	Advanced Telecommunications Modules
+121c   	Nippon Texaco Ltd
+121d   	Lippert Automationstechnik GmbH
+121e   	CSPI
+121f   	Arcus Tech Inc
+1220   	Ariel Corp
+1221   	Contec Co Ltd
+1222   	Ancor Comm Inc
+1223   	Artesyn Communication Products
+1224   	Interactive Images
+1225   	Power I/O Inc
+1227   	Tech-Source
+1228   	Norsk Elektro Optikk A/S
+1229   	Data Kinesis Inc
+122a   	Integrated Telecom
+122b   	LG Industrial Systems Co Ltd
+122c   	Sican GmbH
+122d   	Aztech System Ltd
+122e   	Xyratex
+122f   	Andrew Corp
+1230   	Fishcamp Engineering
+1231   	Woodard McCoach Inc
+1232   	GPT Ltd
+1233   	Bus-Tech Inc
+1234   	Technical Corp
+1235   	RISQ Modular Systems Inc
+1236   	Sigma Designs Corp
+1237   	Alta Tech Corp
+1238   	Adtran
+1239   	3DO Co
+123a   	Visicom Labs Inc
+123b   	SEEQ Tech Inc
+123c   	Century Systems Inc
+123d   	Engineering Design Team Inc
+123e   	Simutech Inc
+123f   	C-Cube Microsystems
+1240   	Marathon Tech Corp
+1241   	DSC Communications
+1242   	JNI Corporation
+1243   	Delphax
+1244   	AVM Audiovisuelles MKTG & Computer GmbH
+1245   	APD S.A.
+1246   	Dipix Tech Inc
+1247   	Xylon Research Inc
+1248   	Central Data Corp
+1249   	Samsung Electronics Co. Ltd.
+124a   	AEG Electrocom GmbH
+124b   	SBS/Greenspring Modular I/O
+124c   	Solitron Tech Inc
+124d   	Stallion Tech Inc
+124e   	Cylink
+124f   	Infotrend Tech Inc
+1250   	Hitachi Microcomputer System Ltd
+1251   	VLSI Solution OY
+1253   	Guzik Technical Enterprises
+1254   	Linear Systems Ltd
+1255   	Optibase Ltd
+1256   	Perceptive Solutions Inc
+1257   	Vertex Networks Inc
+1258   	Gilbarco Inc
+1259   	Allied Telesyn Int'l
+125a   	ABB Power Systems
+125b   	ASIX Electronics Corp
+125c   	Aurora Tech Inc
+125d   	ESS Technology
+125e   	Specialvideo Engineering SRL
+125f   	Concurrent Tech Inc
+1260   	Intersil America Inc [Harris Semi]
+1261   	Matsushita-Kotobuki Electronics Industries Ltd
+1262   	ES Computer Co Ltd
+1263   	Sonic Solutions
+1264   	Aval Nagasaki Corporation
+1265   	Casio Computer Co Ltd
+1266   	Microdyne Corp
+1267   	S.A. Telecom
+1268   	Tektronix
+1269   	Thomson-CSF/TTM
+126a   	Lexmark Int'l Inc
+126b   	ADAX Inc
+126c   	Nortel Networks [Northern Telecom]
+126d   	Splash Tech Inc
+126e   	Sumitomo Metal Industries Ltd
+126f   	Silicon Motion Inc
+1270   	Olympus Optical Co Ltd
+1271   	GW Instruments
+1272   	Telematics Int'l
+1273   	Hughes Network Systems
+1274   	Creative Labs [Ensoniq]
+1275   	Network Appliance Corp
+1276   	Switched Network Tech Inc
+1277   	Comstream
+1278   	Transtech Parallel Systems Ltd
+1279   	Transmeta Corp
+127a   	Rockwell Semi Systems [Conexant]
+127b   	Pixera Corp
+127c   	Crosspoint Solutions Inc
+127d   	Vela Research
+127e   	Winnov L.P.
+127f   	Fujifilm
+1280   	Photoscript Group Ltd
+1281   	Yokogawa Electric Corp
+1282   	Davicom Semi Inc
+1283   	Integrated Tech Express [ITE] Inc
+1284   	Sahara Networks Inc
+1285   	Platform Tech Inc
+1286   	Mazet GmbH
+1287   	M-Pact Inc.
+1288   	Timestep Corp
+1289   	AVC Tech Inc
+128a   	Asante Technologies Inc
+128b   	Transwitch Corp
+128c   	Retix Corp
+128d   	G2 Networks Inc
+128e   	Hoontech Corp [Samho Multi Tech Ltd]
+128f   	Tateno Dennou Inc
+1290   	Sord Computer Corporation
+1291   	NCS Computer Italia
+1292   	Tritech Microelectronics
+1293   	Media Reality Technology
+1294   	Rhetorex Inc
+1295   	Imagenation Corp
+1296   	Kofax Image Products
+1297   	Holco Ent Co Ltd [Shuttle Computer]
+1298   	Spellcaster Telecom Inc
+1299   	Knowledge Tech Lab
+129a   	VMetro Inc
+129b   	Image Access
+129c   	Xantel Corp [Jaycor]
+129d   	Compcore Multimedia Inc
+129e   	Victor Co of Japan Ltd
+129f   	OEC Medical Systems Inc
+12a0   	Allen Bradley Co
+12a1   	Simpact Associates Inc
+12a2   	NewGen Systems Corp
+12a3   	Lucent Tech
+12a4   	NTT Electronics Tech Co
+12a5   	Vision Dynamics Ltd
+12a6   	Scalable Networks Inc
+12a7   	AMO GmbH
+12a8   	News Datacom
+12a9   	Xiotech Corp
+12aa   	SDL Comm Inc
+12ab   	Yuan Yuan Enterprise Co Ltd
+12ac   	Measurex Corp
+12ad   	Multidata GmbH
+12ae   	Alteon Networks Inc
+12af   	TDK USA Corp
+12b0   	Jorge Scientific Corp
+12b1   	GammaLink
+12b2   	General Signal Networks
+12b3   	Inter-Face Co Ltd
+12b4   	FutureTel Inc
+12b5   	Granite Systems Inc
+12b6   	Natural Microsystems
+12b7   	Accumen [Cognex Modular Vision Systems]
+12b8   	Korg
+12b9   	3COM Corp Modem Division [US Robotics]
+12ba   	BittWare Inc.
+12bb   	Nippon Unisoft Corp
+12bc   	Array Microsystems
+12bd   	Computerm Corp
+12be   	Anchor Chips Inc
+12bf   	Fujifilm Microdevices
+12c0   	Infimed
+12c1   	GMM Research Corp
+12c2   	Mentec Ltd
+12c3   	Holtek Microelectronics Inc
+12c4   	Connect Tech Inc
+12c5   	Picture Elements Inc
+12c6   	Mitani Corp
+12c7   	Dialogic Corp
+12c8   	G Force Co Ltd
+12c9   	Gigi Operations
+12ca   	Integrated Computing Engines Inc
+12cb   	Antex Electronics Corp
+12cc   	Pluto Technologies International
+12cd   	Aims Lab
+12ce   	Netspeed Inc
+12cf   	Prophet Systems Inc
+12d0   	GDE Systems Inc
+12d1   	PsiTech
+12d2   	Nvidia [STB SGS Thompson]
+12d3   	Vingmed Sound A/S
+12d4   	Ulticom [DGM&S]
+12d5   	Equator Technologies
+12d6   	Analogic Corp
+12d7   	Biotronic SRL
+12d8   	Pericom Semiconductor
+12d9   	Acculab PLC
+12da   	True Time Inc
+12db   	Annapolis Micro Systems Inc
+12dc   	Symicron Computer Communication Ltd
+12dd   	Management Graphics Inc
+12de   	Rainbow Technologies
+12df   	SBS Tech Inc [Bit3 Computer]
+12e0   	Chase Research
+12e1   	Nintendo Co Ltd
+12e2   	Datum Inc Bancomm-Timing Division
+12e3   	Imation Corp - Medical Imaging Systems
+12e4   	Brooktrout Tech Inc
+12e5   	XCD Inc/Apex Inc
+12e6   	Cirel Systems
+12e7   	Sunsgroup Corp
+12e8   	Crisc Corp
+12e9   	GE Spacenet
+12ea   	Zuken
+12eb   	Aureal Inc
+12ec   	3A Int'l Inc
+12ed   	Optivision Inc
+12ee   	Orange Micro
+12ef   	Vienna Systems
+12f0   	Pentek
+12f1   	Sorensen Vision Inc
+12f2   	Gammagraphix Inc
+12f2   	Gammagraphix Inc
+12f3   	Radstone Tech [XING Inc]
+12f4   	Megatel
+12f5   	Forks Inc
+12f6   	Dawson France
+12f7   	Cognex
+12f8   	Electronic Design GmbH
+12f9   	FourFold Tech
+12fb   	Spectrum Signal Processing
+12fc   	Capital Equipment Corp
+12fd   	I2S
+12fe   	ESD Electronic System Design GmbH
+12ff   	Lexicon
+1300   	Harman International Industries Inc
+1302   	Computer Sciences Corp
+1303   	Innovative Integration
+1304   	Juniper Networks Inc
+1305   	NetPhone Inc
+1306   	Duet Technologies
+1307   	ComputerBoards Inc
+1308   	Jato Tech Inc
+1309   	AB Semi Ltd
+130a   	Mitsubishi Electric Microcomputer
+130b   	Colorgraphic Communications Corp
+130c   	Ambex Tech Inc
+130d   	Accelerix Inc
+130e   	Yamatake-Honeywell Co Ltd
+130f   	Advanet Inc
+1310   	Gespac
+1311   	VideoServer Inc
+1312   	Acuity Imaging Inc
+1313   	Yaskawa Electric Co
+1316   	Teradyne Inc
+1317   	Admtek
+1318   	Packet Engines Inc
+1319   	ForteMedia Inc
+131a   	Finisar Corp
+131c   	Nippon Electro-Sensory Devices Corp
+131d   	Sysmic Inc
+131e   	Xinex Networks Inc
+131f   	SIIG Inc
+1320   	Crypto AG
+1321   	Arcobel Graphics BV
+1322   	MTT Co Ltd
+1323   	Dome Inc
+1324   	Sphere Communications
+1325   	Salix Technologies Inc
+1326   	SeaChange Int'l
+1327   	Voss Scientific
+1328   	Quadrant Int'l
+1329   	Productivity Enhancement
+132a   	Microcom Inc
+132b   	BroadBand Tech
+132c   	Micrel Inc
+132d   	Integrated Silicon Solution Inc
+1330   	MMC Networks
+1331   	Radisys Corp
+1332   	Micro Memory
+1334   	Redcreek Communications Inc
+1335   	Videomail Inc
+1337   	Third Planet Publishing
+1338   	BT Electronics
+133a   	Vtel Corp
+133b   	Softcom Microsystems
+133c   	Holontech Corp
+133d   	SS Technologies
+133e   	Virtual Computer Corp
+133f   	SCM Microsystems
+1340   	Atalla Corp
+1341   	Kyoto Microcomputer Co
+1342   	Promax Systems Inc
+1343   	Phylon Communications Inc
+1344   	Crucial Technology
+1345   	Arescom Inc
+1347   	Odetics
+1349   	Sumitomo Electric Industries Ltd
+134a   	DTC Tech Corp
+134b   	Ark Research Corp
+134c   	Chori Joho System Co Ltd
+134d   	PCTel Inc
+134e   	CSTI
+134f   	Algo System Co Ltd
+1350   	Systec Co Ltd
+1351   	Sonix Inc
+1353   	Dassault A.T.
+1354   	Dwave System Inc
+1355   	Kratos Analytical Ltd
+1356   	The Logical Co
+1359   	Prisa Networks
+135a   	Brain Boxes Ltd
+135b   	Giganet Inc
+135c   	Quatech Inc
+135d   	ABB Network Partner AB
+135e   	Sealevel Systems Inc
+135f   	I-Data International A-S
+1360   	Meinberg Funkuhren
+1361   	Soliton Systems K.K.
+1362   	Fujifacom Corp
+1363   	Phoenix Technology Ltd
+1364   	ATM Communications Inc
+1365   	Hypercope GmbH
+1366   	Teijin Seiki Co Ltd
+1367   	Hitachi Zosen Corp
+1368   	Skyware Corp
+1369   	Digigram
+136a   	High Soft Tech
+136b   	Kawasaki Steel Corp
+136c   	Adtek System Science Co Ltd
+136d   	Gigalabs Ltd
+136f   	Applied Magic Inc
+1370   	ATL Products
+1371   	CNet Tech Inc
+1373   	Silicon Vision Inc
+1374   	Silicom Ltd
+1375   	Argosystems Inc
+1376   	LMC
+1377   	Electronic Equipment Production & Distribution GmbH
+1378   	Telemann Co Ltd
+1379   	Asahi Kasei Microsystems Co Ltd
+137a   	Mark Of The Unicorn Inc
+137b   	PPT Vision
+137c   	Iwatsu Electric Co Ltd
+137d   	Dynachip Corp
+137e   	Patriot Scientific Corp
+137f   	Japan Satellite Systems Inc
+1380   	Sanritz Automation Co Ltd
+1381   	Brains Co Ltd
+1382   	Marian - Electronic & Software
+1383   	Controlnet Inc
+1384   	Reality Simulation Systems Inc
+1385   	Alteon
+1386   	Video Domain Technologies
+1387   	Systran Corp
+1388   	Hitachi Information Technology Co Ltd
+1389   	Applicom International
+138a   	Fusion Micromedia Corp
+138b   	Tokimec Inc
+138c   	Silicon Reality
+138d   	Future Techno Designs Pty Ltd
+138e   	Basler GmbH
+138f   	Patapsco Designs Inc
+1390   	Concept Development Inc
+1391   	Development Concepts Inc
+1392   	Medialight Inc
+1393   	Moxa Technologies Co Ltd
+1394   	Level One Communications
+1395   	Ambicom Inc
+1396   	Cipher Systems Inc
+1397   	Cologne Chip Designs GmbH
+1398   	Clarion Co Ltd
+1399   	Rios Systems Co Ltd
+139a   	Alacritech Inc
+139b   	Mediasonic Multimedia Systems Ltd
+139c   	Quantum 3D Inc
+139d   	EPL Ltd
+139e   	Media4
+139f   	Aethra S.R.L.
+13a0   	Crystal Group Inc
+13a1   	Kawasaki Heavy Industries Ltd
+13a2   	Ositech Communications Inc
+13a3   	HI-FN Inc
+13a4   	Rascom Inc
+13a5   	Audio Digital Imaging Inc
+13a6   	Videonics Inc
+13a7   	Teles AG
+13a8   	Exar Corp
+13a9   	Siemens Medical Systems Ultrasound Group
+13aa   	Broadband Networks Inc
+13ab   	Arcom Control Systems Ltd
+13ac   	Motion Media Technology Ltd
+13ad   	Nexus Inc
+13ae   	ALD Technology Ltd
+13af   	T.Sqware
+13b0   	Maxspeed Corp
+13b1   	Tamura Corp
+13b2   	Techno Chips Co Ltd
+13b3   	Lanart Corp
+13b4   	Wellbean Co Inc
+13b5   	ARM Ltd
+13b6   	Dlog GmbH
+13b7   	Logic Devices Inc
+13b8   	Nokia Telecom Oy
+13b9   	Elecom Co Ltd
+13ba   	Oxford Instruments
+13bb   	Sanyo Technosound Co Ltd
+13bc   	Bitran Corp
+13bd   	Sharp Corp
+13be   	Miroku Jyoho Service Co Ltd
+13bf   	Sharewave Inc
+13c0   	Microgate Corp
+13c1   	3ware Inc
+13c2   	Technotrend Systemtechnik GmbH
+13c3   	Janz Computer AG
+13c4   	Phase Metrics
+13c5   	Alphi Technology Corp
+13c6   	Condor Engineering Inc
+13c7   	Blue Chip Technology Ltd
+13c8   	Apptech Inc
+13c9   	Eaton Corp
+13ca   	Iomega Corp
+13cb   	Yano Electric Co Ltd
+13cc   	Metheus Corp
+13cd   	Compatible Systems Corp
+13ce   	Cocom A/S
+13cf   	Studio Audio & Video Ltd
+13d0   	Techsan Electronics Co Ltd
+13d1   	Abocom Systems Inc
+13d2   	Shark Multimedia Inc
+13d3   	IMC Networks
+13d4   	Graphics Microsystems Inc
+13d5   	Media 100 Inc
+13d6   	K.I. Tech Co Ltd
+13d7   	Toshiba Engineering Corp
+13d8   	Phobos Corp
+13d9   	Apex PC Solutions Inc
+13da   	IntreSource Systems Pty Ltd
+13db   	Janich & Klass Computertechnik GmbH
+13dc   	Netboost Corp
+13dd   	Multimedia Bundle Inc
+13de   	ABB Robotics Products AB
+13df   	E-Tech Inc
+13e0   	GVC Corporation
+13e1   	Silicom Multimedia Systems Inc
+13e2   	Dynamics Research Corp
+13e3   	Nest Inc
+13e4   	Calculex Inc
+13e5   	Telesoft Design Ltd
+13e6   	Argosy Research Inc
+13e7   	NAC Inc
+13e8   	Chip Express Corporation
+13e9   	Intraserver Technology Inc
+13ea   	Dallas Semiconductor
+13eb   	Hauppauge Computer Works Inc
+13ec   	Zydacron Inc
+13ed   	Raytheion E-Systems
+13ee   	Hayes Microcomputer Products Inc
+13ef   	Coppercom Inc
+13f0   	Sundance Tech Inc
+13f1   	OCE Industries S.A.
+13f2   	Ford Microelectronics Inc
+13f3   	McData Corp
+13f4   	Troika Design Inc
+13f5   	Kansai Electric Co Ltd
+13f6   	C-Media Electronics Inc
+13f7   	Wildfire Communications
+13f8   	Ad Lib Multimedia Inc
+13f9   	NTT Advanced Tech Corp
+13fa   	Pentland Systems Ltd
+13fb   	Aydin Corp
+13fc   	Computer Peripherals International
+13fd   	Micro Science Inc
+13fe   	Advantech Co Ltd
+13ff   	Silicon Spice Inc
+1400   	Artx Inc
+1401   	CR-Systems A/S
+1402   	Meilhaus Electronic GmbH
+1403   	Ascor Inc
+1404   	Fundamental Software Inc
+1405   	Excalibur Systems Inc
+1406   	Oce' Printing Systems GmbH
+1407   	Lava Computer mfg Inc
+1408   	Aloka Co Ltd
+1409   	Timedia Technology Co Ltd
+140a   	DSP Research Inc
+140b   	Ramix Inc
+140c   	Elmic Systems Inc
+140d   	Matsushita Electrics Works Ltd
+140e   	Goepel Electronic GmbH
+140f   	Salient Systems Corp
+1410   	Midas Lab Inc
+1411   	Ikos Systems Inc
+1412   	IC Ensemble Inc
+1413   	Addonics
+1414   	Microsoft Corp
+1415   	Oxford Semiconductor Ltd
+1416   	Multiwave Innovation Pte Ltd
+1417   	Convergenet Technologies Inc
+1418   	Kyushu Electronics Systems Inc
+1419   	Excel Switching Corp
+141a   	Apache Micro Peripherals Inc
+141b   	Zoom Telephonics Inc
+141c   	Zoom Telephonics Inc
+141d   	Digitan Systems Inc
+141e   	Fanuc Ltd
+141f   	Visiontech Ltd
+1420   	Psion Dacom PLC
+1421   	ADS Tech Inc
+1422   	Ygrec Systems Co Ltd
+1423   	Custom Tech Corp
+1424   	Videoserver Connections
+1425   	ASIC Designers Inc
+1426   	Storage Tech Corp
+1427   	Better On-line Solutions
+1428   	Edec Co Ltd
+1429   	Unex Tech Corp
+142a   	Kingmax Technology Inc
+142b   	Radiolan
+142c   	Minton Optic Industry Co Ltd
+142d   	Pix Stream Inc
+142e   	Vitec Multimedia
+142f   	Radicom Research Inc
+1430   	ITT Aerospace/Communications Division
+1431   	Gilat Satellite Networks
+1432   	Edimax Computer Co
+1433   	Eltec Elektronik GmbH
+1435   	Real Time Devices US Inc
+1436   	CIS Technology Inc
+1437   	Nissin Co Inc
+1438   	Atmel-Dream
+1439   	Outsource Engineering & Mfg. Inc
+143a   	Stargate Solutions Inc
+143b   	Canon Research Center America
+143c   	Amlogic Inc
+143d   	Tamarack Microelectronics Inc
+143e   	Jones Futurex Inc
+143f   	Lightwell Co Ltd - Zax Division
+1440   	Algol Corp
+1441   	AGIE Ltd
+1442   	Phoenix Contact GmbH & Co
+1443   	Unibrain S.A.
+1444   	TRW
+1445   	Logical DO Ltd
+1446   	Graphin Co Ltd
+1447   	AIM GmbH
+1448   	Alesis Studio Electronics
+1449   	TUT Systems Inc
+144a   	ADLINK Tech Inc
+144b   	Loronix Information Systems Inc
+144c   	Catalina Research Inc
+144d   	Samsung Electronics Co Ltd
+144e   	Olitec
+144f   	Askey Computer Corp
+1450   	Octave Communications Ind.
+1451   	SP3D Chip Design GmbH
+1453   	Mycom Inc
+1454   	Altiga Networks
+1455   	Logic Plus Plus Inc
+1456   	Advanced Hardware Architectures
+1457   	Nuera Communications Inc
+1458   	Giga-Byte Tech
+1459   	Dooin Electronics
+145a   	Escalate Networks Inc
+145b   	Praim SRL
+145c   	Cryptek
+145d   	Gallant Computer Inc
+145e   	Aashima Technology B.V.
+145f   	Baldor Electric Company
+1460   	Dynarc Inc
+1461   	Avermedia Technologies Inc
+1462   	Micro-Star Int'l Co Ltd [MSI]
+1463   	Fast Corp
+1464   	Interactive Circuits & Systems Ltd
+1465   	GN Nettest Telecom Division
+1466   	Designpro Inc
+1467   	Digicom SPA
+1468   	Ambit Microsystems Corp
+1469   	Cleveland Motion Controls
+146a   	IFR Ltd
+146b   	Parascan Technologies Ltd
+146c   	Ruby Tech Corp
+146d   	Tachyon Inc
+146e   	Williams Electronic Games Inc
+146f   	Multi Dimensional Consulting Inc
+1470   	Bay Networks
+1471   	Integrated Telecom Express Inc
+1472   	DAIKIN Industries Ltd
+1473   	Zapex Tech Inc
+1474   	Doug Carson & Associates
+1475   	Picazo Comm
+1476   	Mortara Instrument Inc
+1477   	Net Insight
+1478   	Diatrend Corp
+1479   	Toray Industries Inc
+147a   	Formosa Industrial Computing
+147b   	Abit Computer Corp
+147c   	Aware Inc
+147d   	Interworks Computer Products
+147e   	Matsushita Graphic Communication Systems Inc
+147f   	Nihon Unisys Ltd
+1480   	SCII Telecom
+1481   	Biopac Systems Inc
+1482   	ISYTEC - Integrierte Systemtechnik GmbH
+1483   	Labway Corp
+1484   	Logic Coporation
+1485   	ERMA - Electronic GmbH
+1486   	L3 Communications Telemetry & Instrumentation
+1487   	Marquette Medical Systems
+1488   	Kontron Electronik GmbH
+1489   	KYE Systems Corp
+148a   	OPTO
+148b   	Innomedialogic Inc
+148c   	C.P. Tech Co Ltd
+148d   	Digicom Systems Inc
+148e   	OSI Plus Corp
+148f   	Plant Equipment Inc
+1490   	Stone Microsystems Pty Ltd
+1491   	Zeal Corp
+1492   	Time Logic Corp
+1493   	Maker Comm
+1494   	Wintop Tech Inc
+1495   	Tokai Comm Industry Co Ltd
+1496   	Joytech Computer Co Ltd
+1497   	SMA Regelsysteme GmbH
+1498   	Tews Datentechnik GmbH
+1499   	Emtec Co Ltd
+149a   	Andor Tech Ltd
+149b   	Seiko Instruments Inc
+149c   	Ovislink Corp
+149d   	Newtek Inc
+149e   	Mapletree Networks Inc
+149f   	Lectron Co Ltd
+14a0   	Softing GmbH
+14a1   	Systembase Co Ltd
+14a2   	Millennium Engineering Inc
+14a3   	Maverick Networks
+14a4   	GVC/BCM Advanced Research
+14a5   	Xionics Document Tech Inc
+14a6   	Inova Computers GmbH & Co KG
+14a7   	Mythos Systems Inc
+14a8   	Featron Tech Corp
+14a9   	Hivertec Inc
+14aa   	Advanced MOS Technology Inc
+14ab   	Mentor Graphics Corp
+14ac   	Novaweb Technologies Inc
+14ad   	Time Space Radio AB
+14ae   	CTI Inc
+14af   	Guillemot Corp
+14b0   	BST Communication Technology Ltd
+14b1   	Nextcom K.K.
+14b2   	Ennovate Networks Inc
+14b3   	Xpeed Inc
+14b4   	Philips Business Electronics B.V.
+14b5   	Creamware GmbH
+14b6   	Quantum Data Corp
+14b7   	Proxim Inc
+14b8   	Techsoft Technology Co Ltd
+14b9   	Aironet Wireless Comm
+14ba   	Internix Inc
+14bb   	Semtech Corp
+14bc   	Globespan Semi Inc
+14bd   	Cardio Control N.V.
+14be   	L3 Communications
+14bf   	Spider Comm Inc
+14c0   	Compal Electronics Inc
+14c1   	Myricom Inc
+14c2   	DTK Computer
+14c3   	Mediatek Corp
+14c4   	Iwasaki Information Systems Co Ltd
+14c5   	ABB Automation Products AB
+14c6   	Data Race Inc
+14c7   	Modular Tech Holdings Ltd
+14c8   	Turbocomm Tech Inc
+14c9   	ODIN Telesystems Inc
+14ca   	PE Logic Corp
+14cb   	Billionton Systems Inc [Cadmus Micro Inc]
+14cc   	Nakayo Telecom Inc
+14cd   	Universal Scientific Ind
+14ce   	Whistle Communications
+14cf   	TEK Microsystems Inc
+14d0   	Ericsson AXE R & D
+14d1   	Computer HI-TECH Co Ltd
+14d2   	Titan Electronics Inc
+14d3   	Cirtech [UK] Ltd
+14d4   	Panacom Tech Corp
+14d5   	Nitsuko Corp
+14d6   	Accusys Inc
+14d7   	Hirakawa Hewtech Corp
+14d8   	Hopf Elektronik GmbH
+14d9   	Alpha Processor Inc
+14da   	National Aerospace Laboratories
+14db   	Avlab Tech Inc
+14dc   	Amplicon Liveline Ltd
+14dd   	Boulder Design Labs Inc
+14de   	Applied Integration Corp
+14df   	ASIC Communications Corp
+14e1   	Invertex
+14e2   	Infolibria
+14e3   	Amtelco
+14e4   	Broadcom Corp
+14e5   	Pixelfusion Ltd
+14e6   	Shining Tech Inc
+14e7   	3CX
+14e8   	Raycer Inc
+14e9   	Garnets System Co Ltd
+14ea   	Planex Communications Inc
+14eb   	Seiko Epson Corp
+14ec   	Acqiris
+14ed   	Datakinetics Ltd
+14ee   	Maspro Kenkoh Corp
+14ef   	Carry Computer Engineering Co Ltd
+14f0   	Canon Reseach Centre France
+14f1   	Conexant Systems Inc
+14f2   	Mobility Electronics Inc
+14f3   	Broadlogic
+14f4   	Tokyo Electronic Industry Co Ltd
+14f5   	Sopac Ltd
+14f6   	Coyote Tech LLC
+14f7   	Wolf Tech Inc
+14f8   	Audiocodes Inc
+14f9   	AG Comm
+14fa   	Wandel & Gochermann
+14fb   	Transas Marine [UK] Ltd
+14fc   	Quadrics Supercomputers World
+14fd   	Japan Computer Industry Inc
+14fe   	Archtek Telecom Corp
+14ff   	Twinhead Int'l Corp
+1500   	Lantech
+1501   	Banksoft Canada Ltd
+1502   	Mitsubishi Electric Logistics Support Co Ltd
+1503   	Kawasaki LSI USA Inc
+1504   	Kaiser Electronics
+1505   	ITA Ingenieurburo Fur Testaufgaben GmbH
+1506   	Chameleon Systems Inc
+1507   	Motorola [Htec Ltd]
+1508   	Honda Connectors [Mhotronics Inc]
+1509   	First Int'l Computer Inc
+150a   	Forvus Research Inc
+150b   	Yamashita Systems Corp
+150c   	Kyopal Co Ltd
+150d   	Warpspped Inc
+150e   	C-Port Corp
+150f   	Intec GmbH
+1510   	Behavior Tech Computer Corp
+1511   	Centillium Tech Corp
+1512   	Rosun Tech Inc
+1513   	Raychem
+1514   	TFL LAN Inc
+1515   	Advent design
+1516   	Myson Tech Inc
+1517   	Echotek Corp
+1518   	PEP Modular Computers GmbH
+1519   	Telefon Aktiebolaget LM Ericsson
+151a   	Globetek Inc
+151b   	Combox Ltd
+151c   	Digital Audio Labs Inc
+151d   	Fujitsu Computer Products Of America
+151e   	Matrix Corp
+151f   	Topic Semi Corp
+1520   	Chaplet System Inc
+1521   	Bell Corp
+1522   	MainPine Ltd
+1523   	Music Semi
+1524   	ENE Technology Inc
+1525   	Impact Tech
+1526   	ISS Inc
+1527   	Solectron
+1528   	Acksys
+1529   	American Microsystems Inc
+152a   	Quickturn Design Systems
+152b   	Flytech Tech Co Ltd
+152c   	Macraigor Systems LLC
+152d   	Quanta Computer Inc
+152e   	Melec Inc
+152f   	Philips - Crypto
+1530   	Acqis Tech Inc
+1531   	Chryon Corp
+1532   	Echelon Corp
+1533   	Baltimore
+1534   	Road Corp
+1535   	Evergreen Tech Inc
+1537   	Datalex Comm
+1538   	Aralion Inc
+1539   	Atelier Informatiques et Electronique Etudes S.A.
+153a   	Ono Sokki
+153b   	Terratec Electronic GmbH
+153c   	Antal Electronic
+153d   	Filanet Corp
+153e   	Techwell Inc
+153f   	MIPS Denmark
+1540   	Provideo Multimedia Co Ltd
+1541   	Machone Comm
+1542   	Vivid Tech Inc
+1543   	Silicon Labs
+1544   	DCM Data Systems
+1545   	Visiontek
+1546   	IOI Tech Corp
+1547   	Mitutoyo Corp
+1548   	Jet Propulsion Laboratory
+1549   	Interconnect Systems Solutions
+154a   	Max Tech Inc
+154b   	Computex Co Ltd
+154c   	Visual Tech Inc
+154d   	Pan Int'l Industrial Corp
+154e   	Servotest Ltd
+154f   	Stratabeam Tech
+1550   	Open Network Co Ltd
+1551   	Smart Electronic Development GmbH
+1552   	Racal Airtech Ltd
+1553   	Chicony Electronics Co Ltd
+1554   	Prolink Microsystems Corp
+1555   	Gesytec GmbH
+1556   	PLD Applications
+1557   	Mediastar Co Ltd
+1558   	Clevo/Kapok Computer
+1559   	SI Logic Ltd
+155a   	Innomedia Inc
+155b   	Protac Int'l Corp
+155c   	Cemax-Icon Inc
+155d   	Mac System Co Ltd
+155e   	LP Elektronik GmbH
+155f   	Perle Systems Ltd
+1560   	Terayon Communications Systems
+1561   	Viewgraphics Inc
+1562   	Symbol Technologies
+1563   	A-Trend Technology Co Ltd
+1564   	Yamakatsu Electronics Industry Co Ltd
+1565   	Biostar Microtech Intl Corp
+1566   	Ardent Technologies Inc
+1567   	Jungsoft
+1568   	DDK Electronics Inc
+1569   	Palit Microsystems Inc
+156a   	Avtec Systems
+156b   	2wire Inc
+156c   	Vidac Electronics GmbH
+156d   	Alpha-Top Corp
+156e   	Alfa Inc
+156f   	M-Systems Flash Disk Pioneers Ltd
+1570   	Lecroy Corp
+1571   	Contemporary Controls
+1572   	Otis Elevator Company
+1573   	Lattice - Vantis
+1574   	Fairchild Semiconductor
+1575   	Voltaire Advanced Data Security Ltd
+1576   	Viewcast Com
+1578   	Hitt
+1579   	Dual Tech Corp
+157a   	Japan Elecronics Ind Inc
+157b   	Star Multimedia Corp
+157c   	Eurosoft (UK)
+157d   	Gemflex Networks
+157e   	Transition Networks
+157f   	PX Instruments Technology Ltd
+1580   	Primex Aerospace Co
+1581   	SEH Computertechnik GmbH
+1582   	Cytec Corp
+1583   	Inet Technologies Inc
+1584   	Uniwill Computer Corp
+1585   	Logitron
+1586   	Lancast Inc
+1587   	Konica Corp
+1588   	Solidum Systems Corp
+1589   	Atlantek Microsystems Pty Ltd
+158a   	Digalog Systems Inc
+158b   	Allied Data Technologies
+158c   	Hitachi Semiconductor & Devices Sales Co Ltd
+158d   	Point Multimedia Systems
+158e   	Lara Technology Inc
+158f   	Ditect Coop
+1590   	3pardata Inc
+1591   	ARN
+1592   	Syba Tech Ltd
+1593   	Bops Inc
+1594   	Netgame Ltd
+1595   	Diva Systems Corp
+1596   	Folsom Research Inc
+1597   	Memec Design Services
+1598   	Granite Microsystems
+1599   	Delta Electronics Inc
+159a   	General Instrument
+159b   	Faraday Technology Corp
+159c   	Stratus Computer Systems
+159d   	Ningbo Harrison Electronics Co Ltd
+159e   	A-Max Technology Co Ltd
+159f   	Galea Network Security
+15a0   	Compumaster SRL
+15a1   	Geocast Network Systems Inc
+15a2   	Catalyst Enterprises Inc
+15a3   	Italtel
+15a4   	X-Net OY
+15a5   	Toyota Macs Inc
+15a6   	Sunlight Ultrasound Technologies Ltd
+15a7   	SSE Telecom Inc
+15a8   	Shanghai Communications Technologies Center
+15aa   	Moreton Bay
+15ab   	Bluesteel Networks Inc
+15ac   	North Atlantic Instruments
+15ad   	VMWare Inc
+15ae   	Amersham Pharmacia Biotech
+15b0   	Zoltrix International Ltd
+15b1   	Source Technology Inc
+15b2   	Mosaid Tech Inc
+15b3   	Mellanox Technology
+15b4   	CCI/TRIAD
+15b5   	Cimetrics Inc
+15b6   	Texas Memory Systems Inc
+15b7   	Sandisk Corp
+15b8   	ADDI-DATA GmbH
+15b9   	Maestro Digital Communications
+15ba   	Impacct Technology Corp
+15bb   	Portwell Inc
+15bc   	Agilent Technologies
+15bd   	DFI Inc
+15be   	Sola Electronics
+15bf   	High Tech Computer Corp (HTC)
+15c0   	BVM Ltd
+15c1   	Quantel
+15c2   	Newer Technology Inc
+15c3   	Taiwan Mycomp Co Ltd
+15c4   	EVSX Inc
+15c5   	Procomp Informatics Ltd
+15c6   	Technical University of Budapest
+15c7   	Tateyama Dystem Laboratory Co Ltd
+15c8   	Penta Media Co Ltd
+15c9   	Serome Technology Inc
+15ca   	Bitboys OY
+15cb   	AG Electronics Ltd
+15cc   	Hotrail Inc
+15cd   	Dreamtech Co Ltd
+15ce   	Genrad Inc
+15cf   	Hilscher GmbH
+15d1   	Infineon Technologies AG
+15d2   	FIC [First Int'l Computer Inc]
+15d3   	NDS Technologies Israel Ltd
+15d4   	Iwill Corp
+15d5   	Tatung Co
+15d6   	Entridia Corp
+15d7   	Rockwell-Collins Inc
+15d8   	Cybernetics Technology Co Ltd
+15d9   	Super Micro Computer Inc
+15da   	Cyberfirm Inc
+15db   	Applied Computing Systems Inc
+15dc   	Litronic Inc
+15dd   	Sigmatel Inc
+15de   	Malleable Technologies Inc
+15df   	Infinilink Corp
+15e0   	Cacheflow Inc
+15e1   	Voice Technologies Group Inc
+15e2   	Quicknet Technologies Inc
+15e3   	Networth Technologies Inc
+15e4   	VSN Systemen BV
+15e5   	Valley Tech Inc
+15e6   	Agere Inc
+15e7   	Get Engineering Corp
+15e8   	National Datacomm Corp
+15e9   	Pacific Digital Corp
+15ea   	Tokyo Denshi Sekei K.K.
+15eb   	Drsearch GmbH
+15ec   	Beckhoff GmbH
+15ed   	Macrolink Inc
+15ee   	In Win Development Inc
+15ef   	Intelligent Paradigm Inc
+15f0   	B-Tree Systems Inc
+15f1   	Times N Systems Inc
+15f2   	Diagnostic Instruments Inc
+15f3   	Digitmedia Corp
+15f4   	Valuesoft
+15f5   	Power Micro Research
+15f6   	Extreme Packet Device Inc
+15f7   	Banctec
+15f8   	Koga Electronics Co
+15f9   	Zenith Electronics Corp
+15fa   	J.P. Axzam Corp
+15fb   	Zilog Inc
+15fc   	Techsan Electronics Co Ltd
+15fd   	N-Cubed.Net
+15fe   	Kinpo Electronics Inc
+15ff   	Fastpoint Tech Inc
+1600   	Northrop Grumman - Canada Ltd
+1601   	Tenta Technology
+1602   	Prosys-tec Inc
+1603   	Nokia Wireless Communications
+1604   	Central System Research Co Ltd
+1605   	Pairgain Technologies
+1606   	Europop AG
+1607   	Lava Semi Manufacturing Inc
+1608   	Automated Wagering International
+1609   	Scimetric Instruments Inc
+160a   	Kollmorgen Servotronix
+160b   	Onkyo Corp
+160c   	Oregon Micro Systems Inc
+160d   	Aaeon Electronics Inc
+160e   	CML Emergency Services
+160f   	ITEC Co Ltd
+1610   	Tottori Sanyo Electric Co Ltd
+1611   	Bel Fuse Inc
+1612   	Telesynergy Research Inc
+1613   	System Craft Inc
+1614   	Jace Tech Inc
+1615   	Equus Computer Systems Inc
+1616   	Iotech Inc
+1617   	Rapidstream Inc
+1618   	Esec SA
+1619   	FarSite Comm Ltd
+161a   	Wvinten Ltd
+161b   	Mobilian Israel Ltd
+161c   	Berkshire Products
+161d   	Gatec
+161e   	Kyoei Sangyo Co Ltd
+161f   	Arima Computer Co
+1620   	Sigmacom Co Ltd
+1621   	Lynx Studio Technology Inc
+1622   	Nokia Home Communications
+1623   	KRF Tech Ltd
+1624   	CE Infosys GmBH
+1625   	Warp Nine Engineering
+1626   	TDK Semiconductor Corp
+1627   	BCom Electronics Inc
+1629   	Kongsberg Spacetec AS
+162a   	Sejin Computerland Co Ltd
+162b   	Shanghai Bell Company Limited
+162c   	C&H Technologies Inc
+162d   	Reprosoft Co Ltd
+162e   	Margi Systems Inc
+162f   	Rohde & Schwarz GmBH & Co KG
+1630   	Sky Computers Inc
+1631   	NEC Computer International
+1632   	Verisys Inc
+1633   	Adac Corporation
+1634   	Visionglobal Network Corp
+1635   	Decros
+1636   	Jean Company Ltd
+1637   	NSI
+1638   	Eumitcom Technology Inc
+163a   	Air Prime Inc
+163b   	Glotrex Co Ltd
+163c   	Smart Link Ltd.
+163d   	Heidelberg Digital LLC
+163e   	3dpower
+163f   	Renishaw PLC
+1640   	Intelliworxx Inc
+1641   	MKNet Corporation
+1642   	Bitland
+1643   	Hajime Industries Ltd
+1644   	Western Avionics Ltd
+1645   	Quick-Serv. Computer Co Ltd
+1646   	Nippon Systemware Co Ltd
+1647   	Hertz Systemtechnik GmBH
+1648   	MeltDown Systems LLC
+1649   	Jupiter Systems
+164a   	Aiwa Co Ltd
+164c   	Department Of Defense
+164d   	Ishoni Networks
+164e   	Micrel Inc
+164f   	Datavoice [Pty] Ltd
+1650   	Admore Tech Inc
+1651   	Chaparral Network Storage
+1652   	Spectrum Digital Inc
+1653   	Nature Worldwide Technology Corp
+1654   	Sonicwall Inc
+1655   	Dazzle Multimedia Inc
+1656   	Insyde Software Corp
+1657   	Brocade Comm Systems Inc
+1658   	Med Associates Inc
+1659   	Shiba Denshi Systems Inc
+165a   	Epix Inc
+165b   	Real-Time Digital Inc
+165c   	Gidel Ltd
+165d   	Hsing Tech Enterprise Co Ltd
+165e   	Hyunju Computer Co Ltd
+165f   	Add One Company
+1660   	Network Security Tech Inc
+1661   	Worldspace Corp
+1662   	Int Labs
+1663   	Elmec Inc Ltd
+1664   	Fastfame Technology Co Ltd
+1665   	Edax Inc
+1666   	Norpak Corporation
+1667   	CoSystems Inc
+1668   	Action Tec Electronics Inc
+166a   	Komatsu Ltd
+166b   	Supernet Inc
+166c   	Shade Ltd
+166d   	Sibyte Inc
+166e   	Schneider Automation Inc
+166f   	Televox Software Inc
+1670   	Rearden Steel
+1671   	Atan Tech Inc
+1672   	Unitec Co Ltd
+1673   	Connex
+1675   	Square Wave Technology
+1676   	Emachines Inc
+1677   	Bernecker + Rainer
+1678   	INH Semiconductor
+1679   	Tokyo Electron Device Ltd
+167d   	Samsung Electro-Mechanics Co Ltd
+167e   	Onnto Corp
+1680   	Dunti Corp
+1681   	Hercules
+1682   	Pine Technology Ltd
+1688   	Castlenet Technology
+168a   	Utimaco Safeware AG
+168b   	Circut Assembly Corp (Ca)
+168c   	Atheros Communications Inc
+168d   	NMI Electronics Ltd
+168e   	Hyundai Multicav Computer Co Ltd
+168f   	KDS Innotech Corp
+1690   	Netcontinuum Inc
+1693   	Ferma
+1695   	Epox Computer Co Ltd
+1696   	Hitachi Video and Information System Inc
+169a   	Otari Inc
+169b   	Decsys Corporation
+169c   	Netcell Corporation
+169d   	Link Evolution Corp
+16a8   	Shatai Systems Inc
+16aa   	Enseo
+16ab   	Global Sun Technology Inc
+16ae   	SafeNet Inc
+16af   	Nextcomm Inc
+16b0   	Wincor Nixdorf International GmbH
+16b2   	Design Of Systems On Silicon (DS2)
+16b3   	CNF Mobile Solutions
+16b4   	Aspex Technology Ltd
+16bd   	Aristos Logic Corporation
+16be   	Creatix Polymedia GmbH
+16c3   	Insilicon Corporation
+16c5   	Puretek Industrial Co Ltd
+16c7   	Micrel - Kendin Operations
+16c8   	OCTASIC Inc
+16ca   	Cenatek Inc
+16cb   	Minolta Co Ltd
+16cc   	Inari
+16cd   	Densitron Computers Ltd
+16cf   	Roland Corporation
+16d0   	Systemax
+16d2   	Axis Corporation
+16d8   	Omnicluster Technologies
+16da   	Marek Micro GmBH
+16de   	Digital Stream Technology Inc
+16df   	Pika Technology Inc
+16e0   	Third Millenium Test Solutions
+16e2   	Geotest-Marvin Test Systems Inc
+16e3   	European Space agency
+16e7   	Keisoku Giken Co Ltd
+16e9   	Silicon Sccess Networks
+16eb   	Inside Telnetcom Co Ltd
+16ec   	U.S. Robotics
+16ed   	Sycron N.V.
+16ee   	Canberra Industries Inc
+16ef   	Amigo Technology
+16f0   	TLA Inc
+16f1   	Adicti Corp
+16f2   	Bosch Rexroth AG
+16f3   	Jetway Information Co Ltd
+16f4   	VWEB Corp
+16f6   	VideoTele.com Inc.
+16f7   	Advanced Rendering Technology Ltd
+16fc   	Ciena Corp
+16fe   	Fujitsu LSI Solution Ltd
+1700   	Antara LLC
+1701   	Interactive computer Products Inc
+1702   	Internet Machines Corp
+1703   	Desana Systems
+1704   	Clearwater Networks
+1705   	Digital First Inc.
+1706   	Pacific Broadband Communications
+1707   	Cogency Semiconductor Inc
+1708   	Harris MCD
+1709   	Zarlink Semiconductor (Was: Mitel Semiconductor)
+170a   	Alpine Electronics Inc
+170b   	NetOctave Inc
+170c   	YottaYotta Inc
+170d   	SensoMotoric Instruments GmbH
+170e   	SanValley Systems Inc
+170f   	Cyberdyne Inc
+1710   	Pelago Networks
+1711   	Netscreen Technologies Inc
+1712   	Nice Systems
+1713   	Topcon Corp
+1714   	Science Park Corp
+1715   	The Imaging Source Europe GMbH
+1716   	Aldec Inc
+1717   	Runtop Inc
+1718   	Pixela corp
+1719   	EZChip Technologies
+171a   	Fantasma Networks Inc
+171b   	Andor System Support Co Ltd
+171c   	Merilus Inc
+171d   	TEAC Corp
+171e   	Realchip Inc
+171f   	Pijnenburg
+1720   	Top Layer Networks Inc
+1721   	Glonet Systems INC
+1722   	Trimedia Technologies Inc
+1725   	APT Technologies Inc
+1726   	Avaya
+1729   	Danam Communications INC
+172a   	Accelerated Encryption
+172c   	Ampere Inc
+172e   	Digianswer A/S
+172f   	Sparkle Computer Co Ltd
+1730   	Brainvision Inc
+1734   	Fujitsu Siemens Computers
+1735   	ATEN International Co Ltd
+1737   	Linksys
+1738   	Harris Corp
+1739   	Interface Concept
+173b   	Altima [BroadCom]
+1740   	Ulyssix Technologies Inc
+1743   	Peppercon AG
+1745   	VIXS
+1746   	Corrent Corp
+1747   	Test Research Inc
+1749   	RLX Technologies Inc
+174a   	Spirent Communications
+174b   	PC Partner Ltd [Sapphire Tech Ltd]
+174c   	Intelitek
+174d   	Wellx Telecom
+174e   	Xi'an Tongshi Data Co Ltd
+174f   	TAIKO Electric Works Ltd
+1751   	Pixelworks Inc
+1752   	Global Brands Manufacture Ltd
+1753   	Tera Recon Inc
+1754   	Antares Microsystems Inc
+1755   	Alchemy Semi Inc
+1757   	Laservall S.P.A.
+1758   	National Hybrid Inc
+1759   	Trinamic Microchips
+175c   	AudioScience Inc
+175d   	CTC Parker Automation
+175e   	Sanera Systems Inc.
+175f   	Asita Technologies Inc
+1760   	Tedia Spol. Sr.o
+1761   	Pickering Interfaces Ltd
+1762   	JR3 Inc
+1763   	Cmicro Corporation
+1764   	Micro Vision Co Ltd
+1765   	Future Systems Inc
+1766   	Eurotech Spa
+1767   	Well Communication Corp
+1768   	Malachite Technologies Inc
+176a   	General Dynamics Canada
+176e   	Kaba Mas Corporation
+176f   	SAYA Limited
+1771   	InnoVision Multimedia Ltd
+1772   	Siber Core Technologies Inc
+1773   	Soma Networks Inc
+1775   	SBS Technologies Inc
+1778   	For-A Company Limited
+1779   	V One Multimedia PTE Ltd
+177b   	Racal Instruments Inc
+177c   	Tanbac Co Ltd
+177d   	Cavium Networks
+177e   	Jeol USA Inc
+177f   	Precision Instruments Inc
+1780   	Unixtar Technology Inc
+1782   	Lightsand Communications Inc
+1783   	Trebia Networks
+1784   	Lockheed Martin Systems Integration
+1787   	Hightech Information System Ltd.
+1789   	Ennyah Technologies Corp
+178a   	Sandcraft Inc
+178d   	DesignTech Co Ltd
+178e   	Envara
+1790   	Zuken Inc
+1791   	Dotcast Inc
+1792   	Artiza Networks Inc
+1793   	Unitech Electronics Co Ltd
+1796   	Forschungszentrum Julich
+1797   	JumpTec h, GMBH
+1798   	iReady Corp
+1799   	Belkin Research and Development Labs
+179b   	Ratio Entwicklungen GmbH
+179c   	Indus TeQ Site Pvt Ltd
+179d   	SES Japn Co Ltd
+179e   	IntelliBus Network Systems
+17a0   	Genesys Logic, Inc
+17a1   	Macro Image Technology Inc
+17a3   	Dongguan Chang'an Global Smart Electronic Factory
+17a4   	Resonext Communications Inc
+17a5   	Quest Tech Consulting Inc
+17a6   	Primarion
+17a7   	Start Network Technology Co Ltd
+17a8   	Gtech
+17a9   	Arunta Comsec Pty Ltd
+17aa   	Legend Ltd [Beijing]
+17ab   	Phillips Components
+17ad   	Genesys Logic Inc
+17ae   	NEC Corp
+17af   	Hightech Information Systems Ltd
+17b0   	Sphinx Elektronik GmbH
+17b1   	Astec Inc
+17b2   	Aeroflex Test Solutions
+17b3   	Hawking Technologies Inc
+17b4   	Indra Networks Inc
+17b5   	Emerge Core Networks LLC
+17b6   	GE Medical Systems
+17b7   	CAE
+17b9   	Sapura Devices
+17ba   	Sandburst Corporation
+17bb   	ArTile Microsystems Inc
+17bc   	Infiniswitch Corporation
+17bd   	Merging Technologies
+17be   	Systemonic AG
+17bf   	Max Diligent Technology Inc
+17c0   	Wistron Corporation
+17c1   	Nital Consulting Services Inc
+17c2   	Newisys Inc
+17c3   	Protogate Inc
+17c4   	Movita Tehnologies Inc
+17c5   	Digital Safety Technologies Inc
+17c6   	American Computers & Digital Components Inc
+17c7   	Bystronic Laser AG
+17c8   	Hexium Ltd
+17c9   	OPCiel Networks Inc
+17ca   	Uniwide Technologies
+17cb   	Woodside Networks Inc
+17cc   	NetChip Technology Inc
+17cd   	Tality Corporation
+17cf   	Z-Com Inc
+17d0   	Fodus Communications Inc
+17d1   	Patton Electronics
+17d2   	Red River
+17d3   	Areca Technology Corporation
+17d4   	Darim Vision Company
+17d5   	S2IO Technologies
+17d6   	Virtual Silicon Technology Inc
+17d7   	SITA
+17d8   	Wing-Span Enterprise Co Ltd
+17d9   	Leader Electronics Corp
+17da   	0-In Design Automation Inc
+17db   	Cray Inc
+17dc   	Visiowave S.A.
+17dd   	ICOM Inc
+17de   	Kworld Computer Co Ltd
+17df   	Dini Group LaJalla Inc
+17e0   	Integrated Circuit Solution Incorporation
+17e1   	ETI A/S
+17e2   	DoTop Technology Inc
+17e3   	Opteon Corporation
+17e4   	Sectra AB
+17e5   	Paceline Systems
+17e6   	Entropic Communications Inc
+17e7   	Mitsubishi Electric Engineering Company Limited
+17e8   	Chrontel Inc
+17e9   	DH Electronics GmbH
+17ea   	iStor Networks Inc
+17eb   	Aplux Communications Ltd
+17ec   	Chip Engines Inc
+17ed   	Arbor Technology Corp
+17ee   	Connect Components Ltd
+17ef   	Sonexis
+17f0   	Velio Communications Inc
+17f1   	Interactive Silicon Inc
+17f2   	Albatron Corp
+17f3   	RDC Semiconductor Co Ltd
+17f4   	MicroPlex Printware AG
+17f5   	Cymer Inc
+17f6   	Leopard Logic Inc
+17f7   	Topdek Semiconductor Inc
+17f8   	Bermai Inc
+17f9   	GemTek Technology Co Ltd
+17fa   	E-MOVE Technology Co Ltd
+17fb   	Wavecrest Corp
+17fc   	Iogear Inc
+17fd   	Netexcell
+17fe   	InProComm Inc
+17ff   	Benq Corp
+1800   	Virtual IP group Inc
+1801   	Pro-Nets Technology Corp
+1802   	Sinus Messtechnik GmbH
+1803   	ProdaSafe GmbH
+1804   	Enterasys Networks
+1805   	Euresys S.A.
+1806   	Nexio Systems Inc
+1807   	Comit Systems Inc
+1808   	Pigeon Point System
+1809   	Emuzed Inc
+180a   	Brecis Communications
+180b   	Formoza-Altair
+180c   	ICP Electronics Inc
+180d   	Prolific Technology Inc
+180e   	HCL Technologies Ltd
+1810   	HCL Technologies Ltd
+1811   	Wipro Technologies
+1812   	LANergy
+1813   	Ambient Technologies Inc
+1814   	Ralink Technology Corp
+1815   	Devolo AG
+1816   	Pro Team Computer Corporation
+1817   	JAE
+1818   	SMAR Equipamentos Industriais Ltd
+1819   	Rosta Ltd
+181a   	NurLogic Design Inc
+181b   	Comax Technology Inc
+181c   	Yamatake Corporation
+181d   	eInfochips
+181e   	TiARIS
+181f   	Tachys Technologies
+1820   	InfiniCom System
+1821   	RedSwitch Inc
+1822   	TwinHan Technology Co Ltd
+1823   	FulCrum Microsystems
+1824   	2C Computing Inc
+1825   	Computer Access Technology Corporation
+1826   	Cradle Technologies Inc
+1827   	Denali Software Inc
+1828   	Xsido Corporation
+1829   	Verisity Design Inc
+182a   	Ampro Computers Inc
+182b   	Commetrex Corporation
+182c   	SYNAD Technology Ltd
+182d   	SiteCom Europe BV
+182e   	Raza Foundries Inc
+1830   	Credence
+1831   	Glimmergalss Networks
+1832   	Acquisition Logic Inc
+1833   	Cognitronics Corporation
+1834   	Delphi Connection Systems
+1835   	SimpleTech Inc
+1836   	IPFlex Inc
+1837   	Sierra Logic Inc
+1838   	Precision Photonics Corp
+1839   	Genesis Microchip Inc
+183a   	Transwarp Networks Inc
+183b   	Mikrom GmbH
+183c   	GCT Semicondustor Inc
+183d   	SI Packets
+183e   	Telewise Communications Inc
+183f   	Computer Ultrasound Global Inc
+1840   	vpr Matrix Inc
+1841   	Lamprey Networks Inc
+1842   	Camtel Technology Corp
+1843   	Firstech Technology Co Ltd
+1844   	Controlnet Inc
+1845   	Siliquent Technologies Ltd
+1846   	Lucent Technologies NS UK
+1847   	Engim Inc
+1848   	Microcom C.E. as
+1849   	ASRock Inc
+184b   	Systec Corporation
+184c   	Hirose Electric Co Ltd
+184d   	ICTV Inc
+184e   	Netlogic Microsystems Inc
+184f   	Ionwerks Inc
+1850   	Advantest Corp
+1851   	Microtune Inc
+1852   	Anritsu Corp
+1853   	Oasis Silicon Systems AG
+1854   	LG Electronics
+1855   	Cascade Semiconductor Solutions Inc
+1856   	Silicon Logic Engineering Inc
+185f   	Wistron NeWeb Corp
+1860   	Primagraphics Ltd
+1866   	Supergrace
+1867   	Topspin Communications
+187e   	ZyXEL Communication Corporation
+1887   	Elan Digital Systems Ltd
+1888   	Varisys Limited
+1894   	KNC One
+1896   	B&B Electronics Manufacturing Company Inc
+1898   	DIC Information Technology Ltd
+18a1   	Astute Networks Inc
+18ac   	DViCO Corp
+18b8   	Ammasso
+18bc   	Ge-Cube
+18c8   	Cray Inc (Was: Octigabay System)
+18c9   	ARVOO Engineering BV
+18ca   	XGI Technology Inc
+18d0   	Kobian Pte Ltd
+18d4   	Celestica
+18e6   	MPL AG
+18f7   	Commtech, Inc
+18fb   	Resilience Corp
+1905   	WIS Technology Inc
+1924   	Level 5 Networks Inc
+192e   	TransDimension
+1966   	Orad Hi-Tec Systems
+1993   	Innominate Security Technologies AG
+19ae   	Progeny Systems Corp
+1a08   	Sierra Semi
+1b13   	Jaton Corp
+1b28   	Taicom Data Systems Co Ltd
+1c1c   	DTC [Symphony][Forex Computer Corp]
+1d44   	Distributed Processing Tech [DPT]
+1de1   	Tekram Technology
+1de2   	A/DHOC SystËmes
+1fc0   	Tumsan Oy
+2000   	Agat-RT(??)
+2001   	Temporal Research Ltd
+2002   	Automation Technology GmbH
+2003   	Netodragon?? Smartlink??	
+2004   	Smart Link Ltd
+2014   	NONTECH Nonnenmacher GmbH
+21c3   	21st Century Computer Corp
+2348   	Racore
+2646   	Kingston Tech Corp
+270b   	Xantel Corp
+270f   	Chaintech Computer Co Ltd
+2711   	AVID Tech Inc
+2a15   	3D Vision(???)
+2ec1   	Zenic Inc
+3000   	Hansol Electronics Inc
+3030   	C-Net
+3142   	Post Impression Systems
+3388   	Hint Corp
+3411   	Quantum Designs HK Inc
+3513   	ARCOM Control Systems Ltd
+3842   	EVGA.COM
+38d0   	mfp-online.de
+38ef   	4Links
+3d3d   	3DLabs Inc Ltd
+4005   	Avance Logic Inc
+4033   	Addtron Tech Co Inc
+4143   	Digital Equipment Corp
+4144   	Alpha Data Parallel Systems Ltd
+416c   	Aladdin Knowledge Systems
+4250   	Burke Porter Ltd
+434d   	?? Unknown (Present in WinXP Drivers)
+4444   	Conexant Inc [Globespan ICompression Inc]
+4468   	Bridgeport Machines
+4594   	Cogetec Informatique Inc
+45fb   	Baldor Electric Company
+4680   	UMAX Computer Corp
+4843   	Hercules Computer Technology Inc
+4916   	RedCreek Communications Inc
+4943   	Growth Networks
+494f   	ICS Advent
+4954   	Integral Technologies
+4978   	Axil Computer Inc
+4a14   	NetVin
+4abd   	Applied Biosystems Division
+4b10   	Buslogic Inc
+4c48   	Lung Hwa Electronics
+4c53   	SBS Tech Inc [Bit3 Computer]
+4ca1   	Seanix Technology Inc
+4ccc   	Computer Conversions Corp
+4d51   	MediaQ Inc
+4d54   	Microtechnica Co Ltd
+4ddc   	ILC Data Device Corp
+5046   	GemTek Tech Corp
+5053   	TBS/Voyetra Tech
+5136   	S S Technologies
+5143   	Qualcomm Inc
+5145   	Creative Labs [Ensoniq]
+5168   	Animation Technologies Inc
+5301   	Alliance Semi Corp
+5333   	S3 Inc
+5401   	Ericsson
+5430   	Evergreen Technologies Inc
+544c   	Teralogic Inc
+5455   	Technische UniversitÑt Berlin
+5519   	Cnet Tech Inc
+5544   	Dunord Technologies
+5555   	Genroco Inc
+5654   	VoiceTronix Pty Ltd
+5700   	Netpower
+5851   	Exacq Technologies
+6356   	UltraStor
+6374   	c't Magazin fÅr Computertechnik
+6409   	Logitec Corp
+6666   	Decision Computer Int'l Co
+6809   	Kurusugawa Electronics Industry Inc
+7604   	O.N. Electric Co Ltd
+7747   	DaoGuo Technology Co Ltd
+7bde   	Midac Corp
+7fed   	PowerTV
+8001   	Beyertone AG Germany
+8008   	Quancom Electronic GmbH
+807d   	Asustek Computer Inc
+8086   	Intel Corp
+8384   	Sigmatel Inc (??)
+8800   	Trigem Computer
+8866   	T-Square Design Inc
+8888   	Silicon Magic Corp
+8e0e   	Computone Corp
+8e2e   	Katron
+9004   	Adaptec Inc
+9005   	Adaptec
+907f   	Atronics
+919a   	Gigapixel Corp
+9412   	Holtek
+9699   	Omni Media Tech Inc
+9710   	NetMos Tech
+9877   	Pan Asia Superitendence Corp
+9902   	Stargen Inc
+a0a0   	Aopen Inc
+a0f1   	Unisys Corp
+a200   	NEC Corp
+a259   	Hewlett Packard
+a25a   	Hewlett Packard Convex Division
+a25b   	Hewlett Packard GmbH PL24-MKT
+a304   	Sony
+a727   	3Com Corporation
+aa42   	Scitex Digital Video
+ac1e   	Digital Receiver Technology Inc
+ac3d   	Actuality Systems
+aecb   	Adrienne Electronics Corporation
+b00c   	IC Book Labs
+b1b3   	Shiva Europe Ltd
+b54b   	Contec Co Ltd
+b894   	Brown & Sharpe Mfg Co
+bd11   	Pinnacle Systems Inc. (Wrong ID)
+c001   	TSI Telsys
+c0a9   	Micron/Crucial Technology
+c0de   	Motorola
+c0fe   	Motion Engineering Inc
+c622   	Hudson Soft Co Ltd
+ca50   	Varian Australia Pty Ltd
+cafe   	Chrysalis-ITS
+cccc   	Catapult Communications
+cddd   	Tyxz Inc
+d4d4   	DY4 Systems Inc
+d531   	I+ME ACTIA GmbH
+d841   	Super PCI(??)
+d84d   	Exsys
+dc93   	Dawicontrol
+dead   	Indigita Corp
+deaf   	Middle Digital Inc
+e000   	Winbond
+e159   	Tiger Jet Network Inc
+e4bf   	EKF Elektronik GmbH
+ea01   	Eagle Technology
+ea60   	RME
+eabb   	Aashima Technology B.V.
+eace   	Endace Measurement Systems Ltd
+ec80   	Belkin Corporation
+ecc0   	Echo Digital Audio Corporation
+edd8   	ARK Logic Inc
+f1d0   	AJA Video
+f5f5   	F5 Networks Inc
+fa57   	Fast Search & Transfer ASA
+febd   	Ultraview Corp
+feda   	Linksys
+fffe   	VMWare Inc (Older Product Versions)
+ffff   	Invalid Vendor ID

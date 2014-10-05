@@ -1,0 +1,413 @@
+
+#         Master List of Drivers
+# Initially created by Britt Turnbull, maintained by Mensys BV
+# Last updated on: Wed, 2010-12-22 14:44:12
+
+
+00001	 _PNPID?	RTSND.OS2	       0	       0	00	A2500.NIF	f0	       0	_PATH?	OS/2	_RME?	ATI AT-2500 Fast Ethernet Adapter (2002.02.13)
+00002	 _PNPID?	ACCND.OS2	       0	       0	00	ACCND.NIF	f0	       0	_PATH?	OS/2	_RME?	Accton EN1207D Series PCI Fast Ethernet Adapter
+00003	 _PNPID?	CBENDIS.OS2	       0	       0	00	CBEOS2.NIF	f0	       0	_PATH?	OS/2	_RME?	Xircom CardBus Ethernet 10/100 Adapter
+00004	 _PNPID?	CE3NDIS.OS2	       0	       0	00	CE3OS2.NIF	f0	       0	_PATH?	OS/2	_RME?	Xircom Ethernet Adapter 10/100
+00005	 _PNPID?	DC21X4.OS2	       0	       0	00	DC21X4.NIF	f0	       0	_PATH?	OS/2	_RME?	Intel 2104x/2114x 10/100 mbps Ethernet Controller
+00006	 _PNPID?	DE528.OS2	       0	       0	00	DE528.NIF	f0	       0	_PATH?	OS/2	_RME?	DE-528 PCI Ethernet Adapter
+00007	 _PNPID?	RTSND.OS2	       0	       0	00	DFE530TX.NIF	f0	       0	_PATH?	OS/2	_RME?	DFE-530TX+ 10/100 PCI Adapter
+00008	 _PNPID?	MXNICF.OS2	       0	       0	00	DFE540TX.NIF	f0	       0	_PATH?	OS/2	_RME?	DFE-540TX Fast Ethernet PCI Adapter
+00009	 _PNPID?	DFE650.OS2	       0	       0	00	DFE650.NIF	f0	       0	_PATH?	OS/2	_RME?	D-Link DFE-650 Fast Ethernet PC Card
+00010	 _PNPID?	DLKFET.OS2	       0	       0	00	DLKFET.NIF	f0	       0	_PATH?	OS/2	_RME?	D-Link DFE-530TX PCI Fast Ethernet Adapter
+00011	 _PNPID?	DLKPCI.OS2	       0	       0	00	DLKPCI.NIF	f0	       0	_PATH?	OS/2	_RME?	D-Link PCI Fast Ethernet Adapter
+00012	 _PNPID?	DLKRTS.OS2	       0	       0	00	DLKRTS.NIF	f0	       0	_PATH?	OS/2	_RME?	D-Link DFE-538TX 10/100 Adapter
+00013	 _PNPID?	DM9PCI.OS2	       0	       0	00	DM9PCI.NIF	f0	       0	_PATH?	OS/2	_RME?	DAVICOM DM9 PCI Series Fast Ethernet Adapter
+00014	 _PNPID?	DP83815.OS2	       0	       0	00	DP83815.NIF	f0	       0	_PATH?	OS/2	_RME?	National Semiconductor DP83815 10/100 MacPhyter3v PCI Adapter
+00015	 _PNPID?	E1000.OS2	       0	       0	00	E1000.NIF	f0	       0	_PATH?	OS/2	_RME?	Intel(R) 8254X Based Network Connection pre v3.60
+00016	 _PNPID?	E100B.OS2	       0	       0	00	E100BEO2.NIF	f0	       0	_PATH?	OS/2	_RME?	Intel(R) PRO PCI Adapter v4.35
+00017	 _PNPID?	E10P.OS2	       0	       0	00	E10PEOS2.NIF	f0	       0	_PATH?	OS/2	_RME?	Intel EtherExpress(TM) PRO/10 PCI LAN Adapter
+00018	 _PNPID?	EC2T.OS2	       0	       0	00	EC2T.NIF	f0	       0	_PATH?	OS/2	_RME?	Linksys Combo PCMCIA EthernetCard (EC2T)
+00019	 _PNPID?	ELNK3.OS2	       0	       0	00	EL3IBMO2.NIF	f0	       0	_PATH?	OS/2	_RME?	3Com EtherLink 10 ISA (3C509b) Family OS/2
+00020	 _PNPID?	EL515.OS2	       0	       0	00	EL515IO2.NIF	f0	       0	_PATH?	OS/2	_RME?	3Com Fast EtherLink ISA Bus Master OS/2
+00021	 _PNPID?	EL59X.OS2	       0	       0	00	EL59XIO2.NIF	f0	       0	_PATH?	OS/2	_RME?	3Com Fast EtherLink & EtherLink III Bus Master Family OS/2
+00022	 _PNPID?	EL90X.OS2	       0	       0	00	EL90XIO2.NIF	f0	       0	_PATH?	OS/2	_RME?	3Com Fast EtherLink/EtherLink XL Family OS/2
+00023	 _PNPID?	ELNK.OS2	       0	       0	00	ELNK.NIF	f0	       0	_PATH?	OS/2	_RME?	3Com 3C501 EtherLink
+00024	 _PNPID?	ELNK16.OS2	       0	       0	00	ELNK16.NIF	f0	       0	_PATH?	OS/2	_RME?	3Com EtherLink 16 (3c507) Family - OS/2
+00025	 _PNPID?	ELNKII.OS2	       0	       0	00	ELNKII.NIF	f0	       0	_PATH?	OS/2	_RME?	3Com EtherLink II (3c503) Family - OS/2
+00026	 _PNPID?	ELNKMC.OS2	       0	       0	00	ELNKMC.NIF	f0	       0	_PATH?	OS/2	_RME?	3Com EtherLink/MC (3c523) Family - OS/2
+00027	 _PNPID?	ELPC3.OS2	       0	       0	00	ELPC3OS2.NIF	f0	       0	_PATH?	OS/2	_RME?	3Com Megahertz 10Mbps PC Card OS/2
+00028	 _PNPID?	ELPC3X.OS2	       0	       0	00	ELPCXOS2.NIF	f0	       0	_PATH?	OS/2	_RME?	3Com EtherLink III LAN+Modem PC Card for OS2 v1.5 - Card Services
+00029	 _PNPID?	PCIND.OS2	       0	       0	00	EN1208.NIF	f0	       0	_PATH?	OS/2	_RME?	Accton EN1208 PCI Ethernet Adapter
+00030	 _PNPID?	MXNICF.OS2	       0	       0	00	EN9120.NIF	f0	       0	_PATH?	OS/2	_RME?	Edimax EN9120 Family Fast Ethernet Adapters
+00031	 _PNPID?	RTSND.OS2	       0	       0	00	EN9130.NIF	f0	       0	_PATH?	OS/2	_RME?	Edimax EN9130 Fast Ethernet Adapter
+00032	 _PNPID?	L100.OS2	       0	       0	00	ETHERRX.NIF	f0	       0	_PATH?	OS/2	_RME?	Kingston EtherRX KNE111TX PCI Fast Ethernet Adapter
+00033	 _PNPID?	SMC8000.OS2	       0	       0	00	ETHOS2AT.NIF	f0	       0	_PATH?	OS/2	_RME?	SMC Ethernet ISA Adapter Family (SMC8000.OS2)
+00034	 _PNPID?	SMC8000.OS2	       0	       0	00	ETHOS2MC.NIF	f0	       0	_PATH?	OS/2	_RME?	SMC Ethernet MCA Adapter Family (SMC8000.OS2)
+00035	 _PNPID?	EXP16.OS2	       0	       0	00	EXP16.NIF	f0	       0	_PATH?	OS/2	_RME?	Intel EtherExpress 16 Family Adapter
+00036	 _PNPID?	FASTNIC.OS2	       0	       0	00	FASTNIC.NIF	f0	       0	_PATH?	OS/2	_RME?	AdmTek PCI 10/100 Fast Ethernet Adapter
+00037	 _PNPID?	FETND.OS2	       0	       0	00	FETND.NIF	f0	       0	_PATH?	OS/2	_RME?	VIA PCI 10/100Mb Fast Ethernet Adapter
+00038	 _PNPID?	I2OLOSM.OS2	       0	       0	00	I2OLOSM.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM I2O LAN Driver [I2OLOSM.OS2]
+00039	 _PNPID?	IBM16TR.OS2	       0	       0	00	IBM16OS2.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM Token Ring Network 16/4 Adapter II (IBM16TR.OS2)
+00040	 _PNPID?	IBMCNDIS.OS2	       0	       0	00	IBMCOS2.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM 10/100 EtherJet CardBus Adapter
+00041	 _PNPID?	IBMEANDI.OS2	       0	       0	00	IBMEANDI.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM PCI Ethernet Adapter Driver [IBMEANDI.OS2]
+00042	 _PNPID?	IBMEINDI.OS2	       0	       0	00	IBMEINDI.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM EtherJet ISA Ethernet Adapter (IBMEINDI.OS2)
+00043	 _PNPID?	IBMEITR.OS2	       0	       0	00	IBMEIOS2.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM 16/4 Busmaster EISA Adapter (IBMEITR.OS2)
+00044	 _PNPID?	IBMENI.OS2	       0	       0	00	IBMENI.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM LAN Adapter for Ethernet (IBMENI.OS2)
+00045	 _PNPID?	IBMENII.OS2	       0	       0	00	IBMENII.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM LAN Adapter/A for Ethernet (IBMENII.OS2)
+00046	 _PNPID?	IBMESAN2.OS2	       0	       0	00	IBMESAN2.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM EISA Ethernet adapter driver [IBMESAN2.OS2]
+00047	 _PNPID?	IBMEXNDI.OS2	       0	       0	00	IBMEXNDI.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM EtherJet PC Card Ethernet Adapter (IBMEXNDI.OS2)
+00048	 _PNPID?	IBMFDX.OS2	       0	       0	00	IBMFDX.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM FDDI-FI Adapter Device Driver
+00049	 _PNPID?	IBMFE.OS2	       0	       0	00	IBMFEEO2.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM 10/100 EtherJet PCI Adapter (OS/2)
+00050	 _PNPID?	IBMMPC.OS2	       0	       0	00	IBMMPC.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM Auto LANStreamer PCI Adapter (IBMMPC.OS2)
+00051	 _PNPID?	IBMTOK.OS2	       0	       0	00	IBMTOK.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM T-R Shared RAM Family (UP/SMP IBMTOK.OS2)
+00052	 _PNPID?	IBMTOK.OS2	       0	       0	00	IBMTOKC.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM Compatible Token-Ring Network Adapter (IBMTOK.OS)
+00053	 _PNPID?	IBMTOKCS.OS2	       0	       0	00	IBMTOKCS.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM Turbo 16/4 Token-Ring PC Card (IBMTOKCS.OS2)
+00054	 _PNPID?	IBMTRBM.OS2	       0	       0	00	IBMTRBM.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM T-R Busmaster Server Adapter (IBMTRBM.OS2)
+00055	 _PNPID?	IBMMPC.OS2	       0	       0	00	IBMTRDB.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM LANStreamer 16/32 MCA Adapter (IBMMPC.OS2)
+00056	 _PNPID?	IBMTRP.OS2	       0	       0	00	IBMTRP.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM PCI and CardBus Token-Ring Adapters (IBMTRP.OS2)
+00057	 _PNPID?	INTEL16.OS2	       0	       0	00	INTEL16.NIF	f0	       0	_PATH?	OS/2	_RME?	Intel TokenExpress(TM) Network 16/4 Adapters
+00058	 _PNPID?	INTEL32.OS2	       0	       0	00	INTEL32.NIF	f0	       0	_PATH?	OS/2	_RME?	Intel TokenExpress(TM) Network Server Adapter
+00059	 _PNPID?	IBMTOK.OS2	       0	       0	00	KNGSTN1.NIF	f0	       0	_PATH?	OS/2	_RME?	Kingston TokenRx 16/4 Token-Ring Adapter (IBMTOK.OS2)
+00060	 _PNPID?	KTC100.OS2	       0	       0	00	KTC100.NIF	f0	       0	_PATH?	OS/2	_RME?	Kingston EtheRX PCI 10/100 Fast Ethernet Adapter
+00061	 _PNPID?	KTC110.OS2	       0	       0	00	KTC110.NIF	f0	       0	_PATH?	OS/2	_RME?	Kingston EtheRX PCI Fast Ethernet Adapter (KNE110TX)
+00062	 _PNPID?	KTC111.OS2	       0	       0	00	KTC111.NIF	f0	       0	_PATH?	OS/2	_RME?	Kingston Fast EtheRx KNE111TX PCI Fast Ethernet Adapter
+00063	 _PNPID?	KTC120.OS2	       0	       0	00	KTC120.NIF	f0	       0	_PATH?	OS/2	_RME?	Kingston EtheRX PCI Fast Ethernet Adapter
+00064	 _PNPID?	KTC2000.OS2	       0	       0	00	KTC2000.NIF	f0	       0	_PATH?	OS/2	_RME?	Kingston EtheRx LC ISA Ethernet Adapter
+00065	 _PNPID?	KTC40.OS2	       0	       0	00	KTC40.NIF	f0	       0	_PATH?	OS/2	_RME?	Kingston EtheRx PCI Ethernet Adapter
+00066	 _PNPID?	L100.OS2	       0	       0	00	L100.NIF	f0	       0	_PATH?	OS/2	_RME?	PNIC 100 Base FX Fast Ethernet Adapter
+00067	 _PNPID?	LNE100.OS2	       0	       0	00	LNE100.NIF	f0	       0	_PATH?	OS/2	_RME?	Linksys LNE100TX Fast Ethernet Adapter (V2)
+00068	 _PNPID?	L100.OS2	       0	       0	00	LNE100TX.NIF	f0	       0	_PATH?	OS/2	_RME?	Linksys LNE100TX Fast Ethernet Adapter
+00069	 _PNPID?	M16ANDIS.OS2	       0	       0	00	M16AOS2.NIF	f0	       0	_PATH?	OS/2	_RME?	Intel EtherExpress(TM) PRO/100 Mobile Adapter16
+00070	 _PNPID?	M32ANDIS.OS2	       0	       0	00	M32AOS2.NIF	f0	       0	_PATH?	OS/2	_RME?	Intel EtherExpress(TM) PRO/100 Mobile CardBus 32 Adapter
+00071	 _PNPID?	MACETH2.OS2	       0	       0	00	MACETH.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM PS/2 Adapter for Ethernet Networks
+00072	 _PNPID?	MDGND.OS2	       0	       0	00	MDGND.NIF	f0	       0	_PATH?	OS/2	_RME?	Madge Token-Ring Adapter
+00073	 _PNPID?	MXNICF.OS2	       0	       0	00	MXNICF.NIF	f0	       0	_PATH?	OS/2	_RME?	Macronix MX987xx Family Fast Ethernet Adapters
+00074	 _PNPID?	N100.OS2	       0	       0	00	N100EO2.NIF	f0	       0	_PATH?	OS/2	_RME?	Compaq Ethernet or Fast Ethernet NIC
+00075	 _PNPID?	FASTNIC.OS2	       0	       0	00	NC100.NIF	f0	       0	_PATH?	OS/2	_RME?	Linksys LNE100TX Fast Ethernet Adapter(LNE100TX v4)
+00076	 _PNPID?	NE2000NS.OS2	       0	       0	00	NE2000NS.NIF	f0	       0	_PATH?	OS/2	_RME?	Novell NE2000 Compatible (Nat'l Semiconductor)
+00077	 _PNPID?	NETFLX3.OS2	       0	       0	00	NETFLX3.NIF	f0	       0	_PATH?	OS/2	_RME?	Compaq NetFlex-3 and Netelligent Network Controllers
+00078	 _PNPID?	NULLNDIS.OS2	       0	       0	00	NULLNDIS.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM NULL MAC Driver
+00079	 _PNPID?	OLITOK16.OS2	       0	       0	00	OLITOK.NIF	f0	       0	_PATH?	OS/2	_RME?	Olicom Token-Ring Network 16/4 Adapters
+00080	 _PNPID?	OLITOK32.OS2	       0	       0	00	OLITOK32.NIF	f0	       0	_PATH?	OS/2	_RME?	Olicom Token-Ring Network Server Adapter
+00081	 _PNPID?	OLITOK16.OS2	       0	       0	00	OLITOKCE.NIF	f0	       0	_PATH?	OS/2	_RME?	Olicom Token-Ring PCMCIA Card
+00082	 _PNPID?	PC100.OS2	       0	       0	00	PC100.NIF	f0	       0	_PATH?	OS/2	_RME?	Linksys EtherFast 10/100 PC Card
+00083	 _PNPID?	PCIND.OS2	       0	       0	00	PCIND.NIF	f0	       0	_PATH?	OS/2	_RME?	VIA 926 PCI 32-bit Ethernet Adapter
+00084	 _PNPID?	PCMNICCS.OS2	       0	       0	00	PCMNICCS.NIF	f0	       0	_PATH?	OS/2	_RME?	IBM Credit Card Adapter for Ethernet with NDIS support (PCMNICCS.OS2)
+00085	 _PNPID?	PCNTND.OS2	       0	       0	00	PCNTND.NIF	f0	       0	_PATH?	OS/2	_RME?	AMD PCnet Ethernet Family Adapter
+00086	 _PNPID?	PMAC.OS2	       0	       0	00	PMAC.NIF	f0	       0	_PATH?	OS/2	_RME?	SSW Parallel Port NIC-less Adapter
+00087	 _PNPID?	PNPND.OS2	       0	       0	00	RTL8019.NIF	f0	       0	_PATH?	OS/2	_RME?	RTL8019 Plug and Play Ethernet Adapter
+00088	 _PNPID?	PCIND.OS2	       0	       0	00	RTL8029.NIF	f0	       0	_PATH?	OS/2	_RME?	RTL8029 PCI Ethernet Adapter
+00089	 _PNPID?	RTFND.OS2	       0	       0	00	RTL8129.NIF	f0	       0	_PATH?	OS/2	_RME?	RTL8129 Fast Ethernet Adapter
+00090	 _PNPID?	RTSND.OS2	       0	       0	00	RTL8139.NIF	f0	       0	_PATH?	OS/2	_RME?	Realtek 8139/8130/810x NDIS OS/2 (2005.12)
+00091	 _PNPID?	RTR16NDS.OS2	       0	       0	00	RTR16NDS.NIF	f0	       0	_PATH?	OS/2	_RME?	Racore 16/4 Token-Ring Adapter
+00092	 _PNPID?	SFENDS.OS2	       0	       0	00	SFE.NIF	f0	       0	_PATH?	OS/2	_RME?	Silicom Fast Ethernet PCMCIA Adapter
+00093	 _PNPID?	SIS900.OS2	       0	       0	00	SIS900.NIF	f0	       0	_PATH?	OS/2	_RME?	SIS 900/7016 PCI Fast Ethernet Adapter
+00094	 _PNPID?	SMARTND.OS2	       0	       0	00	SMARTND.NIF	f0	       0	_PATH?	OS/2	_RME?	Madge FastMac OS/2 NDIS driver for Smart 16/4 Ringnodes
+00095	 _PNPID?	PCIND.OS2	       0	       0	00	SMC1208.NIF	f0	       0	_PATH?	OS/2	_RME?	SMC EZ Card PCI 10 Adapter(SMC1208x)
+00096	 _PNPID?	SMCND.OS2	       0	       0	00	SMCND.NIF	f0	       0	_PATH?	OS/2	_RME?	SMC EZ Card 10/100 (SMC1211TX)
+00097	 _PNPID?	SMC8232.OS2	       0	       0	00	SMCOS2E.NIF	f0	       0	_PATH?	OS/2	_RME?	SMC Ethernet EISA Adapter for OS/2 (SMC8232.OS2)
+00098	 _PNPID?	SMC8332.OS2	       0	       0	00	SMCOS2ET.NIF	f0	       0	_PATH?	OS/2	_RME?	SMC TokenCard Elite Master32 for OS/2 (SMC8332.OS2)
+00099	 _PNPID?	SMCPWR.OS2	       0	       0	00	SMCPWR.NIF	f0	       0	_PATH?	OS/2	_RME?	SMC EtherPower for OS/2
+00100	 _PNPID?	SMCPWR2.OS2	       0	       0	00	SMCPWR2.NIF	f0	       0	_PATH?	OS/2	_RME?	SMC EtherPower II 10/100 Ethernet Adapter
+00101	 _PNPID?	TCE32PCW.OS2	       0	       0	00	TCE32PCW.NIF	f0	       0	_PATH?	OS/2	_RME?	TCTX048 PCI Fast Ethernet Adapter
+00102	 _PNPID?	IBMTOK.OS2	       0	       0	00	TCTTOK.NIF	f0	       0	_PATH?	OS/2	_RME?	Thomas-Conrad Tropic Token-Ring Network Adapter (IBMTOK.OS2)
+00103	 _PNPID?	TL3C3X9.OS2	       0	       0	00	TL3C3X9.NIF	f0	       0	_PATH?	OS/2	_RME?	3Com 3C3X9 PCI Token Ring Adapter
+00104	 _PNPID?	IBMTOK.OS2	       0	       0	00	TLNKIII.NIF	f0	       0	_PATH?	OS/2	_RME?	3Com TokenLink III Network Adapters (IBMTOK.OS2)
+00105	 _PNPID?	TLPC3.OS2	       0	       0	00	TLPC3.NIF	f0	       0	_PATH?	OS/2	_RME?	3Com TokenLink III PC Card Adapter - OS/2
+00106	 _PNPID?	SMC8100.OS2	       0	       0	00	TOKOS2AT.NIF	f0	       0	_PATH?	OS/2	_RME?	SMC TokenCard Elite for OS/2 (SMC 8115)
+00107	 _PNPID?	SMC8100.OS2	       0	       0	00	TOKOS2MC.NIF	f0	       0	_PATH?	OS/2	_RME?	SMC TokenCard Elite/A for OS/2 (SMC8115)
+00108	 _PNPID?	W840ND.OS2	       0	       0	00	W840ND.NIF	f0	       0	_PATH?	OS/2	_RME?	Winbond W89C840 Based 100M/10M PCI Ethernet Adapter
+00109	 _PNPID?	W940ND.OS2	       0	       0	00	W940ND.NIF	f0	       0	_PATH?	OS/2	_RME?	Winbond W89C940 PCI Ethernet Adapter
+00110	 _PNPID?	_FILE?	       0	       0	00	_INSTFILE?	f0	       0	_PATH?	OS/2	_RME?	_DESC?
+00111	 _PNPID?	_FILE?	       0	       0	00	NE2000.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00112	 _PNPID?	_FILE?	       0	       0	00	FA312.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00113	 _PNPID?	_FILE?	       0	       0	00	DLKPCII.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00114	 _PNPID?	_FILE?	       0	       0	00	HPEIND.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00115	 _PNPID?	_FILE?	       0	       0	00	LNEPCI2.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00116	 _PNPID?	_FILE?	       0	       0	00	O100.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00117	 _PNPID?	_FILE?	       0	       0	00	OCE4XND2.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00118	 _PNPID?	_FILE?	       0	       0	00	OCE5XND2.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00119	 _PNPID?	_FILE?	       0	       0	00	EL556.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00120	 _PNPID?	_FILE?	       0	       0	00	EL99XIO2.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00121	 _PNPID?	_FILE?	       0	       0	00	FNDIS2.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00122	 _PNPID?	_FILE?	       0	       0	00	AT2400.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00123	 _PNPID?	_FILE?	       0	       0	00	RTSND.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00124	 _PNPID?	_FILE?	       0	       0	00	DLKFETI.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00125	 _PNPID?	_FILE?	       0	       0	00	SMC1211.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00126	 _PNPID?	_FILE?	       0	       0	00	ETHPCI.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00127	 _PNPID?	_FILE?	       0	       0	00	NGRPCI.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00128	 _PNPID?	_FILE?	       0	       0	00	LNE1002.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00129	 _PNPID?	_FILE?	       0	       0	00	LNE100P.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00130	 _PNPID?	_FILE?	       0	       0	00	LNE1004.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00131	 _PNPID?	_FILE?	       0	       0	00	EL90X.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00132	 _PNPID?	_FILE?	       0	       0	00	RL100X.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00133	 _PNPID?	_FILE?	       0	       0	00	AX8140.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00134	 _PNPID?	_FILE?	       0	       0	00	D100IB.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00135	 _PNPID?	_FILE?	       0	       0	00	ET32ND.NIF	07	       0	_PATH?	OS/2	_RME?	_DESC?
+00136	 _PNPID?	IBMKBD.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	IBM Keyboard Device Dependent Driver
+00137	 _PNPID?	PRINT01.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	IBM Parallel Port Device Driver
+00138	 _PNPID?	IBM1S506.ADD	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	ISA DMA Adapter Driver for ST506/IDE DASD
+00139	 _PNPID?	AIC7870.ADD	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	Adaptec 7800 Family Driver for OS/2
+00140	 _PNPID?	APM.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	IBM Advanced Power Managment
+00141	 _PNPID?	XMOUSE.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	Extended Mouse Device Independent Driver
+00142	 _PNPID?	COM.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	Asynchronous Communications Driver
+00143	 _PNPID?	SDDHELP.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	SciTech Display Driver
+00144	 _PNPID?	SBLIVE32.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	SoundBlaster Live!
+00145	 _PNPID?	SBLIVE16.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	SoundBlaster Live!
+00146	 _PNPID?	WCAST.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	WarpCast TV Driver
+00147	 _PNPID?	USBUHCI.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	USB UHCI device driver
+00148	 _PNPID?	USBUHCI.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	USB UHCI device driver
+00149	 _PNPID?	USBD.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	USB device driver
+00150	 _PNPID?	USBHID.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	USB Human Interface Device Class driver
+00151	 _PNPID?	SHOWIDT.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00152	 _PNPID?	IBM1FLPY.ADD	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	IBM Family 1 Floppy Driver
+00153	 _PNPID?	DANIS506.ADD	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	DMA Adapter Driver for ST506/IDE DASD
+00154	 _PNPID?	USBMSD.ADD	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	USB Mass Storage Device Class Adapter driver
+00155	 _PNPID?	USBKBD.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	USB Keyboard driver
+00156	 _PNPID?	USBMOUSE.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	USB Mouse Client Device Driver
+00157	 _PNPID?	USBRES.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	USB Resource Manager
+00158	 _PNPID?	ICHCSND.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	SoundMax Integrated Digital Audio driver v3.1.1
+00159	 _PNPID?	SBAUD1$ 	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Sound Blaster 16 Device Driver
+00160	 _PNPID?	CWGMSG.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00161	 _PNPID?	CWCSPUD.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00162	 _PNPID?	CWCMMPM.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00163	 _PNPID?	PCMCIA.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	PCMCIA Card Services Device Driver
+00164	 _PNPID?	IBM2SS14.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00165	 _PNPID?	AUTODRV2.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00166	 _PNPID?	CWGUTIL.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00167	 _PNPID?	CWWINPDD.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00168	 _PNPID?	OPL3.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00169	 _PNPID?	$ICPMOS2.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00170	 _PNPID?	ARLTNDIS.OS2	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00171	 _PNPID?	CWAUDIO.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Crystal Business Audio Driver
+00172	 _PNPID?	USBCOM.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	USB Communication Device Class Driver
+00173	 _PNPID?	MVPRODD.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Pro Audio 16 Spectrum Sound Card Driver
+00174	 _PNPID?	CDMGRDRV.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00175	 _PNPID?	TI1225CB.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	PCMCIA Socket Services Device Driver
+00176	 _PNPID?	AUTODRV2.SYS0	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00177	 _PNPID?	MAESTR2E.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00178	 _PNPID?	PCM2ATA.ADD	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00179	 _PNPID?	SOLO.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	ESS Solo Driver Ver 1.16
+00180	 _PNPID?	PCMSSDIF.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00181	 _PNPID?	PCM2SRAM.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00182	 _PNPID?	FLSH2MTD.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00183	 _PNPID?	PCM2FLSH.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00184	 _PNPID?	KMGAX64.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Matrox Video Driver
+00185	 _PNPID?	TMSCSIW.ADD	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Tekram DC-390U/W/F/U2 PCI SCSI Adapter Driver
+00186	 _PNPID?	CMPCI32.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00187	 _PNPID?	CMPCI16.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	C-Media 8738 Driver
+00188	 _PNPID?	ULTRADD.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	GUS, GUS ICS/MAX/PnP, InterWave driver
+00189	 _PNPID?	SYM_HI.ADD	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	LSI Logic SYM_HI   OS/2 Driver
+00190	 _PNPID?	DC2975.ADD	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	DC-2975U SCSI Driver
+00191	 _PNPID?	AICU160.ADD	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Adaptec Ultra160 Family Driver for OS/2
+00192	 _PNPID?	USBPRT.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	USB Printer Device Class Driver
+00193	 _PNPID?	GWDTA.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00194	 _PNPID?	MWDD32.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00195	 _PNPID?	AIC78U2.ADD	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Adaptec Ultra2 Family Driver for OS/2
+00196	 _PNPID?	GAMEDD.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00197	 _PNPID?	LPTDD.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00198	 _PNPID?	ES1688DD.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	ESS AudioDrive ES1688 Driver 1.04.01
+00199	 _PNPID?	VIAAPM.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00200	 _PNPID?	UART.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Ray Gwinn's Serial Driver Set, Version 2
+00201	 _PNPID?	SIO2K.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	Ray Gwinn's Serial Driver Set, Version 2
+00202	 _PNPID?	BTSSCSI.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00203	 _PNPID?	MPU401.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	MPU-401 Audio Card Driver
+00204	 _PNPID?	VIAUDD.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	VIA Audio Sound System Driver
+00205	 _PNPID?	ECRDRV.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00206	 _PNPID?	SYM8XX.ADD	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	Symbios OS/2 Driver
+00207	 _PNPID?	USBCDROM.ADD	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	USB CDROM Class Adapter driver
+00208	 _PNPID?	PAR1284.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	IBM Bidirectional Parallel Port Device Driver
+00209	 _PNPID?	CSBSAUD.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Crystal Business Audio Driver
+00210	 _PNPID?	GPH2USB.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	GPhoto2/2 USB Driver
+00211	 _PNPID?	USLGENIO.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00212	 _PNPID?	VVTCAPT.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00213	 _PNPID?	ASP4CORE.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00214	 _PNPID?	ASP4OS2.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Aureal Vortex MMPM/2 Audio driver
+00215	 _PNPID?	ASP4JOY.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00216	 _PNPID?	IWZPAN40.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00217	 _PNPID?	SFMAC.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00218	 _PNPID?	SIGSCSI.ADD	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00219	 _PNPID?	TSRKRN.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Common ISDN API (CAPI)
+00220	 _PNPID?	S0AB.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	ISDN.S0-Adapter
+00221	 _PNPID?	HDLC.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Common ISDN API (CAPI)
+00222	 _PNPID?	DSS1TE.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Common ISDN API (CAPI)
+00223	 _PNPID?	ISO8208.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Common ISDN API (CAPI)
+00224	 _PNPID?	ISDNAPI.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Common ISDN API (CAPI)
+00225	 _PNPID?	CFOS.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00226	 _PNPID?	IBM2AMB1.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00227	 _PNPID?	MEMMAN.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00228	 _PNPID?	VLAN.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00229	 _PNPID?	MACFH.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00230	 _PNPID?	WCLCPMAC.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00231	 _PNPID?	PPAOS2.ADD	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Parallel Port Zip Driver
+00232	 _PNPID?	DIDD.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00233	 _PNPID?	DIMAINT.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00234	 _PNPID?	TEDETSI.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00235	 _PNPID?	DIAPIS.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00236	 _PNPID?	MODISK.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00237	 _PNPID?	ES1868DD.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	ESS AudioDrive ES1868 Driver 1.04.01
+00238	 _PNPID?	SCANHP1.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00239	 _PNPID?	KOPYKAT.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00240	 _PNPID?	PCLOGIC.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Logitech Mouse Device Dependent Driver
+00241	 _PNPID?	LNEPCI2.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00242	 _PNPID?	ASPIPFA.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00243	 _PNPID?	SCAXE.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00244	 _PNPID?	PC.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00245	 _PNPID?	PCKBD.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00246	 _PNPID?	FMRADIO.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	PC Radio Card Device Driver
+00247	 _PNPID?	AT2400.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00248	 _PNPID?	EXMOUSE2.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00249	 _PNPID?	CPPPAN40.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00250	 _PNPID?	RODENT.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00251	 _PNPID?	SCANOS2.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00252	 _PNPID?	CAPI20.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00253	 _PNPID?	CFOS20.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00254	 _PNPID?	AHA152X.ADD	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	Adaptec 152X SCSI Adapter Driver
+00255	 _PNPID?	DSS1CAPX.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	ELSA MicroLink ISDN/PCFpro ISDN Treiber (V 2.22)
+00256	 _PNPID?	CALCOMP.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00257	 _PNPID?	RPCX.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	DCF77 Radio Precision Clock Driver
+00258	 _PNPID?	PCCOMPCI.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00259	 _PNPID?	PARADISE.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00260	 _PNPID?	MACMYWI.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00261	 _PNPID?	USBOHCI.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	USB OHCI device driver
+00262	 _PNPID?	VMODEM.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Ray Gwinn's Serial Driver Set, Version 2
+00263	 _PNPID?	LPTX.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00264	 _PNPID?	CLICHOS2.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	OS/2 Audio Driver Sample
+00265	 _PNPID?	ASC.ADD	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00266	 _PNPID?	DSS1C20X.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	ELSA MicroLink ISDN PCI ISDN Treiber (V 2.50)
+00267	 _PNPID?	A2500.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	AT-2500 Ethernet
+00268	 _PNPID?	EPRO.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00269	 _PNPID?	MRAID.ADD	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00270	 _PNPID?	ADSMTAPE.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00271	 _PNPID?	ADSMSDID.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00272	 _PNPID?	I4NODOS2.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00273	 _PNPID?	EPWDD.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00274	 _PNPID?	IBMFLTR.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00275	 _PNPID?	WCLVPCM.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00276	 _PNPID?	AODBSMD.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Thinkpad System Resource Management Driver
+00277	 _PNPID?	IBMWINDS.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00278	 _PNPID?	AHA154X.ADD	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Adaptec 154X SCSI Adapter Driver
+00279	 _PNPID?	MSRASPI.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00280	 _PNPID?	AHA2920.ADD	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	AHA-2920 SCSI Host Adapter Driver
+00281	 _PNPID?	CT5880.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	OS/2 Audio PCI Driver(CT5880)
+00282	 _PNPID?	EN1208.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00283	 _PNPID?	LPT49.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00284	 _PNPID?	IPSPY.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00285	 _PNPID?	OS20MEMU.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00286	 _PNPID?	BWOS2ADD.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00287	 _PNPID?	IBM2TOS1.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00288	 _PNPID?	USBAUDIO.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	USB Audio Device Driver
+00289	 _PNPID?	LTMDMOS2.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Lucent Technologies Combined Modem Driver5.60
+00290	 _PNPID?	FLASHPT.ADD	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	BusLogic FlashPoint PCI SCSI Adapter Driver
+00291	 _PNPID?	LNEPCI.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00292	 _PNPID?	SS2PCIC1.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00293	 _PNPID?	ICARDP.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00294	 _PNPID?	YMF724.SYS 	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	OS/2 Audio Driver Sample
+00295	 _PNPID?	V110.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Common ISDN API (CAPI)
+00296	 _PNPID?	HP-PCNET.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00297	 _PNPID?	DC8432.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00298	 _PNPID?	UTIL2.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Miscellaneous I/O Card and Utility Device Driver
+00299	 _PNPID?	IP22DRV.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00300	 _PNPID?	ACECAD.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00301	 _PNPID?	IBMRA1.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00302	 _PNPID?	SEC32.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00303	 _PNPID?	SSPCIC.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00304	 _PNPID?	ES198X.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	ESS Allegro-1/Maestro-3 Driver Ver 2.0
+00305	 _PNPID?	PCM100.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00306	 _PNPID?	VLFNMEM.SYS	       0	       0	00	NONE	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00307	 _PNPID?	KTC30.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00308	 _PNPID?	PDFH.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00309	 _PNPID?	SS2PCIC2.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00310	 _PNPID?	OCE20ND2.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00311	 _PNPID?	QCOM.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	Asynchronous Communications Driver
+00312	 _PNPID?	ES1371.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	OS/2 Audio PCI Driver(ES1371)
+00313	 _PNPID?	DSP100.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00314	 _PNPID?	IRDA_PHY.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00315	 _PNPID?	IRDA_DD.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00316	 _PNPID?	IAS_DD.OS2	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	_DESC?
+00317	 _PNPID?	IRCOMM.SYS	       0	       0	00	_INSTFILE?	ff	       0	_PATH?	OS/2	_RME?	IrDA IrCOMM protocol and serial port driver
+00318	 _PNPID?	MOUSE.SYS	       0	       0	00	_INSTFILE?	0f	       0	_PATH?	OS/2	_RME?	IBM Generic Mouse Driver
+00319	 _PNPID?	LSIMPT.ADD	       0	       0	00	_INSTFILE?	0f	       0	_PATH?	OS/2	_RME?	LSI U320 SCSI Driver
+00320	 _PNPID?	TPIC95SS.SYS	       0	       0	00	_INSTFILE?	0f	       0	_PATH?	OS/2	_RME?	ToPIC95B CardBus Controller
+00321	 _PNPID?	IBMGU.OS2	       0	       0	00	IBMGU.NIF	0f	       0	_PATH?	OS/2	_RME?	IBM Gigabit Ethernet Adapter
+00322	 _PNPID?	COMETA.OS2	       0	       0	00	COMETA.NIF	0f	       0	_PATH?	OS/2	_RME?	ADMTEK COMET/CENTAUR ANOTHER MAC DRIVER
+00323	 _PNPID?	DP815A.OS2	       0	       0	00	DP815A.NIF	0f	       0	_PATH?	OS/2	_RME?	NSC DP83815
+00324	 _PNPID?	DP820A.OS2	       0	       0	00	DP820A.NIF	0f	       0	_PATH?	OS/2	_RME?	NSC DP83820
+00325	 _PNPID?	RTGNDA.OS2	       0	       0	00	RTGNDA.NIF	0f	       0	_PATH?	OS/2	_RME?	Realtek RTL8169
+00326	 _PNPID?	SIS90A.OS2	       0	       0	00	SIS90A.NIF	0f	       0	_PATH?	OS/2	_RME?	SiS900
+00327	 _PNPID?	TC902X.OS2	       0	       0	00	TC902X.NIF	0f	       0	_PATH?	OS/2	_RME?	Tamarack TMI TC9021
+00328	 _PNPID?	UNIAUD    	       0	       0	00	_INSTFILE?	0f	       0	_PATH?	OS/2	_RME?	Innotek Uniaud Sound Driver
+00329	 _PNPID?	IBMPRISM.OS2	       0	       0	00	IBMPRISM.NIF	0f	       0	_PATH?	OS/2	_RME?	IBM ThinkPad Wireless Driver
+00330	 _PNPID?	8738	  	       0	       0	00	_INSTFILE?	0f	       0	_PATH?	OS/2	_RME?	C-Media 8738 Audio
+00331	 _PNPID?	SBLIVE		       0	       0	00	_INSTFILE?	0f	       0	_PATH?	OS/2	_RME?	Sound Blaster Live! Wave Audio
+00332	 _PNPID?	E1000_C.OS2	       0	       0	00	E1000_C.NIF	f0	       0	_PATH?	OS/2	_RME?	Intel(R) 8254X Based Network Connection v4.17
+00333	 _PNPID?	E100B.OS2	       0	       0	00	E100BEO2.NIF	f0	       0	_PATH?	OS/2	_RME?	Intel(R) PRO PCI Adapter v4.55
+00334	 _PNPID?	B44A.OS2	       0	       0	00	B44A.NIF	f0	       0	_PATH?	OS/2	_RME?	Broadcom BCM4401 MAC driver
+00335	 _PNPID?	VGEND2.OS2	       0	       0	00	VGEND2.NIF	f0	       0	_PATH?	OS/2	_RME?	VIA VT612x Velocity MAC driver
+00336	 _PNPID?	VFET1A.OS2	       0	       0	00	VFET1A.NIF	f0	       0	_PATH?	OS/2	_RME?	VIA VT86C100A Rhine MAC driver 1.02
+00337	 _PNPID?	VFET2A.OS2	       0	       0	00	VFET2A.NIF	f0	       0	_PATH?	OS/2	_RME?	VIA VT6102 Rhine II MAC driver 1.02
+00338	 _PNPID?	VFET3A.OS2	       0	       0	00	VFET3A.NIF	f0	       0	_PATH?	OS/2	_RME?	VIA VT6105 Rhine III MAC driver 1.02
+00339	 _PNPID?	GENM32W.OS2	       0	       0	00	W104CX8400.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Dlink DWL-520+ [104C:8400]
+00340	 _PNPID?	GENM32W.OS2	       0	       0	00	W104CX9066.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Dlink DWL-G520+ [104C:9066]
+00341	 _PNPID?	GENM32W.OS2	       0	       0	00	W10B7X1700.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper 3Com/SKNet Gigabit [10B7:1700]
+00342	 _PNPID?	GENM32W.OS2	       0	       0	00	W10DEX0057.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper nForce 4 10/100/1000 [10DE:0057]
+00343	 _PNPID?	GENM32W.OS2	       0	       0	00	W10DEX0066.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper nForce 2 10/100 [10DE:0066]
+00344	 _PNPID?	GENM32W.OS2	       0	       0	00	W10DEX00D6.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper nForce 3 10/100 [10DE:00D6]
+00345	 _PNPID?	GENM32W.OS2	       0	       0	00	W10ECX8180.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Rtl 8180 Wlan [10EC:8180]
+00346	 _PNPID?	GENM32W.OS2	       0	       0	00	W1148X4320.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper 3Com/SKNet Gigabit [1148:4320]
+00347	 _PNPID?	GENM32W.OS2	       0	       0	00	W11ABX1FA6.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Marvel 802.11 b/g [11AB:1FA6]
+00348	 _PNPID?	GENM32W.OS2	       0	       0	00	W11ABX1FA7.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Marvel 802.11 b/g [11AB:1FA7]
+00349	 _PNPID?	GENM32W.OS2	       0	       0	00	W11ABX4320.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Marvell Yukon 88E8001 [11AB:4320]
+00350	 _PNPID?	GENM32W.OS2	       0	       0	00	W11ABX4362.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Marvell Yukon 88E8053 [11AB:4362]
+00351	 _PNPID?	GENM32W.OS2	       0	       0	00	W14B9XA504.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper CISCO mPCI [14B9:A504]
+00352	 _PNPID?	GENM32W.OS2	       0	       0	00	W14E4X1654.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Broadcom Gigabit [14E4:1654]
+00353	 _PNPID?	GENM32W.OS2	       0	       0	00	W14E4X165D.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Broadcom Gigabit [14E4:165D]
+00354	 _PNPID?	GENM32W.OS2	       0	       0	00	W14E4X1677.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Broadcom Gigabit [14E4:1677]
+00355	 _PNPID?	GENM32W.OS2	       0	       0	00	W14E4X167D.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Broadcom Gigabit [14E4:167D]
+00356	 _PNPID?	GENM32W.OS2	       0	       0	00	W14E4X4318.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Broadcom B/G [14E4:4318]
+00357	 _PNPID?	GENM32W.OS2	       0	       0	00	W14E4X4320.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Broadcom B/G [14E4:4320]
+00358	 _PNPID?	GENM32W.OS2	       0	       0	00	W14E4X4324.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Broadcom A/B/G [14E4:4324]
+00359	 _PNPID?	GENM32W.OS2	       0	       0	00	W168CX0012.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Atheros Wlan [168C:0012]
+00360	 _PNPID?	GENM32W.OS2	       0	       0	00	W168CX0013.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Atheros Wlan [168C:0013]
+00361	 _PNPID?	GENM32W.OS2	       0	       0	00	W168CX1014.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Atheros Wlan [168C:1014]
+00362	 _PNPID?	GENM32W.OS2	       0	       0	00	W1814X0101.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper ASUS Wlan RT2400 [1814:0101]
+00363	 _PNPID?	GENM32W.OS2	       0	       0	00	W1814X0301.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper GN-WI01GS RT61 [1814:0301]
+00364	 _PNPID?	GENM32W.OS2	       0	       0	00	W1814X0302.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper GN-WI01GS RT61 [1814:0302]
+00365	 _PNPID?	GENM32W.OS2	       0	       0	00	W1814X0401.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper GN-WI01GS RT61 [1814:0401]
+00366	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X101E.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 10/100/1000 [8086:101E]
+00367	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X1043.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 2100 Wlan [8086:1043]
+00368	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X1076.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 10/100/1000 [8086:1076]
+00369	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X4220.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 2200 Wlan [8086:4220]
+00370	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X4222.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 3945 a/b/g [8086:4222]
+00371	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X4223.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 2915 a/b/g [8086:4223]
+00372	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X4224.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 2915 a/b/g [8086:4224]
+00373	 _PNPID?	B57.OS2	       0	       0	00	B57.NIF	f0	       0	_PATH?	OS/2	_RME?	Broadcom 1 gigabit Ethernet
+00374	 _PNPID?	NVETH.OS2	       0	       0	00	NVETH.NIF	f0	       0	_PATH?	OS/2	_RME?	NVIDIA MAC Driver from nickk
+00375	 _PNPID?	GENM32W.OS2	       0	       0	00	W10B7X9200.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper 3Com 3C90xC   PCI [10B7:9200]
+00376	 _PNPID?	GENM32W.OS2	       0	       0	00	W10ECX8168.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Rtl 8168 GigaBit [10EC:8168]
+00377	 _PNPID?	GENM32W.OS2	       0	       0	00	W10ECX8169.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Rtl 8169 GigaBit [10EC:8169]
+00378	 _PNPID?	GENM32W.OS2	       0	       0	00	W14E4X170C.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Broadcom 10/100 [14E4:170C]
+00379	 _PNPID?	GENM32W.OS2	       0	       0	00	W14E4X4100.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Broadcom 10/100 [14E4:4100]
+00380	 _PNPID?	GENM32W.OS2	       0	       0	00	W14E4X4401.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Broadcom 10/100 [14E4:4401]
+00381	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X1229.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 10/100 [8086:1229]
+00382	 _PNPID?	GENM32W.OS2	       0	       0	00	W10B7X9201.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper 3Com 3C90xC   PCI [10B7:9201]
+00383	 _PNPID?	GENM32W.OS2	       0	       0	00	W10DEX0373.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper nForce 5 10/100/1000 [10DE:0373]
+00384	 _PNPID?	GENM32W.OS2	       0	       0	00	W11ABX4360.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Marvell Yukon 88E8052 [11AB:4360]
+00385	 _PNPID?	GENM32W.OS2	       0	       0	00	W11ABX4361.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Marvell Yukon 88E8050 [11AB:4361]
+00386	 _PNPID?	GENM32W.OS2	       0	       0	00	W11ABX4363.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Marvell Yukon 88E8055 [11AB:4363]
+00387	 _PNPID?	GENM32W.OS2	       0	       0	00	W11ABX4364.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Marvell Yukon 88E8056 [11AB:4364]
+00388	 _PNPID?	GENM32W.OS2	       0	       0	00	W168CX001A.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Atheros Wlan AR5005g [168C:001A]
+00389	 _PNPID?	GENM32W.OS2	       0	       0	00	W168CX001B.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Atheros Wlan CARDBUS [168C:001B]
+00390	 _PNPID?	GENM32W.OS2	       0	       0	00	W1969X1048.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Attansic Gigabit [1969:1048]
+00391	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X1049.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 10/100/1000MM [8086:1049]
+00392	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X104B.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 10/100/1000MM [8086:104B]
+00393	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X109A.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 10/100/1000PL [8086:109A]
+00394	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X10B9.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 10/100/1000PL [8086:10B9]
+00395	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X4227.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 3945 a/b/g [8086:4227]
+00396	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X4229.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 4965 a/g/n [8086:4229]
+00397	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X4230.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 4965 a/g/n [8086:4230]
+00398	 _PNPID?	GENM32W.OS2	       0	       0	00	W10ECX8167.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Rtl 8167 GigaBit [10EC:8167]
+00399	 _PNPID?	SK98ND.OS2	       0	       0	00	SK98ND.NIF	f0	       0	_PATH?	OS/2	_RME?	SysKonnect SK-9E21D and SK-9521 v2.0 Adapter
+00400	 _PNPID?	GENM32W.OS2	       0	       0	00	W14E4X165A.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Broadcom NetXtreme Gigabit [14E4:165A]
+00401	 _PNPID?	GENM32W.OS2	       0	       0	00	W14E4X1693.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Broadcom Gigabit [14E4:1693]
+00402	 _PNPID?	GENM32W.OS2	       0	       0	00	W168CX001C.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Atheros Wlan AR5007EG/AR242X [168C:001C]
+00403	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X104A.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 10/100/1000DM [8086:104A]
+00404	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X107C.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel 10/100/1000 GT [8086:107C]
+00405	 _PNPID?	GENM32W.OS2	       0	       0	00	W8086X108C.NIF	f0	       0	_PATH?	OS/2	_RME?	GenMac Wrapper Intel(R) PRO/1000 PL Network Connection [8086:108C]
+00406	 _PNPID?	E1000E.OS2	       0	       0	00	E1000E.NIF	f0	       0	_PATH?	OS/2	_RME?	Intel PRO/1000 PCIe MAC Driver
+99999	 _PNPID?	KERNEL	       0	       0	00	KERNEL	f0	       0	_PATH?	OS/2	_RME?	No Driver Required

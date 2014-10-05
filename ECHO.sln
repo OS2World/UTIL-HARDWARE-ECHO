@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "libpci", "pci\libpci.vcxproj", "{743E9312-6488-D70B-F66F-8EF0AAC0A57F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zlib", "zlib\zlib.vcxproj", "{EA40EA5B-2D84-6FFE-4DC3-F86D61F75D18}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "echo", "src\echo.vcxproj", "{C2CA8FC9-2847-1C20-0E40-A715319BB723}"
+	ProjectSection(ProjectDependencies) = postProject
+		{743E9312-6488-D70B-F66F-8EF0AAC0A57F} = {743E9312-6488-D70B-F66F-8EF0AAC0A57F}
+		{EA40EA5B-2D84-6FFE-4DC3-F86D61F75D18} = {EA40EA5B-2D84-6FFE-4DC3-F86D61F75D18}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{743E9312-6488-D70B-F66F-8EF0AAC0A57F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{743E9312-6488-D70B-F66F-8EF0AAC0A57F}.Debug|Win32.Build.0 = Debug|Win32
+		{743E9312-6488-D70B-F66F-8EF0AAC0A57F}.Release|Win32.ActiveCfg = Release|Win32
+		{743E9312-6488-D70B-F66F-8EF0AAC0A57F}.Release|Win32.Build.0 = Release|Win32
+		{EA40EA5B-2D84-6FFE-4DC3-F86D61F75D18}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA40EA5B-2D84-6FFE-4DC3-F86D61F75D18}.Debug|Win32.Build.0 = Debug|Win32
+		{EA40EA5B-2D84-6FFE-4DC3-F86D61F75D18}.Release|Win32.ActiveCfg = Release|Win32
+		{EA40EA5B-2D84-6FFE-4DC3-F86D61F75D18}.Release|Win32.Build.0 = Release|Win32
+		{C2CA8FC9-2847-1C20-0E40-A715319BB723}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C2CA8FC9-2847-1C20-0E40-A715319BB723}.Debug|Win32.Build.0 = Debug|Win32
+		{C2CA8FC9-2847-1C20-0E40-A715319BB723}.Release|Win32.ActiveCfg = Release|Win32
+		{C2CA8FC9-2847-1C20-0E40-A715319BB723}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
